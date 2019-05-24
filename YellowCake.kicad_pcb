@@ -56,7 +56,7 @@
     (mod_text_size 1 1)
     (mod_text_width 0.15)
     (pad_size 6.4 6.4)
-    (pad_drill 3.2)
+    (pad_drill 3.200001)
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
@@ -158,7 +158,7 @@
     (pad 1 thru_hole circle (at 0 0) (size 6.4 6.4) (drill 3.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_3.2mm_M3_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5CE79464)
+  (module MountingHole:MountingHole_3.2mm_M3_Pad (layer F.Cu) (tedit 5CE74AD9) (tstamp 5CE79464)
     (at 106.045 119.38)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
@@ -174,7 +174,7 @@
     )
     (fp_circle (center 0 0) (end 3.2 0) (layer Cmts.User) (width 0.15))
     (fp_circle (center 0 0) (end 3.45 0) (layer F.CrtYd) (width 0.05))
-    (pad 1 thru_hole circle (at 0 0) (size 6.4 6.4) (drill 3.2) (layers *.Cu *.Mask))
+    (pad 1 thru_hole circle (at 0 0) (size 6.4 6.4) (drill 3.200001) (layers *.Cu *.Mask))
   )
 
   (gr_line (start 100.95992 38.02888) (end 100.95992 128.19888) (layer Edge.Cuts) (width 0.05) (tstamp 5CE73CCB))
