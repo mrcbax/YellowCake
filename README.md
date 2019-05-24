@@ -1,4 +1,4 @@
-![Yellow Cake](res/yellowcake.svg)
+![Yellow Cake](res/yellowcake.svg =150x)
 
 # YellowCake
 
