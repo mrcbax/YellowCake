@@ -1,4 +1,4 @@
-![Yellow Cake](res/yellowcake.svg =150x)
+<img src="res/yellowcake.svg" alt="YellowCake Logo" width="150" height="150"/>
 
 # YellowCake
 
