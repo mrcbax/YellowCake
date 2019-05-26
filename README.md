@@ -17,12 +17,12 @@ Gusty is an experienced software developer and systems engineer. Chad and Collin
 - https://computeco.de/DyingLight
 - https://computeco.de/MuxHat
 
-##YellowCake Executive Summary
+## YellowCake Executive Summary
 
 
 YellowCake is a research project to create an open source, single board computer similar to a Raspberry Pi. Chad and Collin will learn the fundamentals of building a computer, which include selecting a form factor of the board, selecting electronic components for a computer, designing communication among components, layout components on the board, printing the board, assembling a computer on the board, testing the computer, and establishing a LINUX operating system on the computer. The following is a picture of a Raspberry Pi single board computer.
 
-##YellowCake Goals
+## YellowCake Goals
 
 YellowCake is a three credit CPSC 491, which occurs during Fall 2019. The goals for YellowCake are the following.
 - Provide an environment in which Chad and Collin can significantly increase their CPSC skills and knowledge as related to computer architecture, design of single board computers, integration of electronics on single board computers, testing single board computers, and hosting and OS on single board computers.
@@ -30,7 +30,7 @@ YellowCake is a three credit CPSC 491, which occurs during Fall 2019. The goals 
 - Complete the YellowCake board layout in a manufacturing format using the board CAD software KiCad: http://kicad-pcb.org/ - the layout is to be documented as open source.
 - Complete a prototype of YellowCake - follow the process in YellowCake Design and Development Process to implement a prototype that demonstrates the design.
 
-##YellowCake Prework
+## YellowCake Prework
 
 During Spring 2019, the YellowCake team will meet periodically to discuss the project, make preliminary decisions, define the parameters for CPSC 491 YellowCake, and submit funding requests. 
 YellowCake Design Parameters
@@ -64,7 +64,7 @@ YellowCake I/O
 - WiFI: YellowCake will include wireless (a/b/g/n).
 - Bluetooth: YellowCake will include bluetooth.
 
-##YellowCake Design and Development Process
+## YellowCake Design and Development Process
 
 The YellowCake high-level design and development process (to be practiced in Fall 2019) consists of several cycles of design, produce, and test. The cycles continue until the final YellowCake product is created or funding diminishes. More details of design, produce, and test are the following.
 - Design a rendition of the board.
@@ -73,7 +73,7 @@ The YellowCake high-level design and development process (to be practiced in Fal
 - Apply the components to the board.
 - Test the board. 
 
-YellowCake Budget
+## YellowCake Budget
 
 We expect up to four iterations of the design process to achieve the final design. Total cost of the project is estimated to be $1000, which is $250 per design iteration. The detailed estimated cost of each design iteration is as follows.
 - $75 - pay foundry to print the board.
