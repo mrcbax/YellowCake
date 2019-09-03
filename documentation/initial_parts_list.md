@@ -5,6 +5,7 @@
 - [x2] Atom e3826 or equivalent
 - [x8] SODIMM slots
 - [x4] Micro-SD slots
+- [x4] PCI/104 Express headers
 
 ## I/O Components
 
