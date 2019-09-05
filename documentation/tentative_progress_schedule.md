@@ -5,12 +5,12 @@
 - 9/4 - Initial Parts List
 - 9/6 - Visit Colonial Circuits
 - 9/11 - Parts Ordered
-- 9/18 - Initial Board Layout submitted
 - 9/25 - Begin writing report
+- 9/30 - Initial Board Layout submitted
 
 ## October
 
-- 10/2 - Parts placed on initial board layout
+- 10/9 - Parts placed on initial board layout
 - 10/9 - Trouble shoot initial board and parts
 - 10/16 - Second Board Layout submitted
 - 10/23 - Update report
