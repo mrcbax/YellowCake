@@ -3,7 +3,7 @@
 ## September
 
 - 9/4 - Initial Parts List
-- 9/6 - Visit Colonial Circuits
+- 9/6 2pm - Visit Colonial Circuits
 - 9/11 - Parts Ordered
 - 9/25 - Begin writing report
 - 9/30 - Initial Board Layout submitted
