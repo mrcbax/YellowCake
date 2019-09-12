@@ -20,3 +20,5 @@
 ## Passive Components (On hold for datasheet reading).
 
 - [x100] 0604m 0Ohm resistors
+
+TOTALS: $223.14 + $9.79 S+H
