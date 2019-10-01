@@ -1,0 +1,9404 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+FCBGA1170
+$EndINDEX
+$MODULE FCBGA1170
+Po 0 0 0 15 00000000 00000000 ~~
+Li FCBGA1170
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -9.55406 -14.0126 1.00305 1.00305 0 0.05 N V 21 "FCBGA1170"
+T1 -10.1774 13.9939 1.00171 1.00171 0 0.05 N V 21 "VAL**"
+DS -13.5 -12.5 13.5 -12.5 0.127 27
+DS 13.5 -12.5 13.5 12.5 0.127 27
+DS 13.5 12.5 -13.5 12.5 0.127 27
+DS -13.5 12.5 -13.5 -12.5 0.127 27
+DS -13.5 -12.5 13.5 -12.5 0.127 21
+DS -13.5 12.5 -13.5 -12.5 0.127 21
+DS 13.5 -12.5 13.5 12.5 0.127 21
+DS 13.5 12.5 -13.5 12.5 0.127 21
+DC -14 -12.1 -13.88 -12.1 0.24 21
+DS -13.75 -12.75 13.75 -12.75 0.05 26
+DS 13.75 -12.75 13.75 12.75 0.05 26
+DS 13.75 12.75 -13.75 12.75 0.05 26
+DS -13.75 12.75 -13.75 -12.75 0.05 26
+DP 0 0 0 0 11 0.127 21
+Dl -13.5 -12.5
+Dl -12.6 -12.5
+Dl -13.5 -11.6
+Dl -13.5 -12.4
+Dl -12.8 -12.4
+Dl -13.4 -11.8
+Dl -13.4 -12.3
+Dl -13 -12.3
+Dl -13.3 -12
+Dl -13.3 -12.2
+Dl -13.1 -12.2
+DC -14 -12.1 -13.88 -12.1 0.24 27
+$PAD
+Sh "A3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.9515 -11.814
+$EndPAD
+$PAD
+Sh "A5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1704 -11.814
+$EndPAD
+$PAD
+Sh "A6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4465 -11.814
+$EndPAD
+$PAD
+Sh "A7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.74801 -11.814
+$EndPAD
+$PAD
+Sh "A9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.8359 -11.814
+$EndPAD
+$PAD
+Sh "A11" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.77443 -11.814
+$EndPAD
+$PAD
+Sh "A13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.80263 -11.814
+$EndPAD
+$PAD
+Sh "A15" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.83082 -11.814
+$EndPAD
+$PAD
+Sh "A17" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.85902 -11.814
+$EndPAD
+$PAD
+Sh "A19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -11.814
+$EndPAD
+$PAD
+Sh "A21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.91541 -11.814
+$EndPAD
+$PAD
+Sh "A23" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.94361 -11.814
+$EndPAD
+$PAD
+Sh "A25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.9718 -11.814
+$EndPAD
+$PAD
+Sh "A27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -11.814
+$EndPAD
+$PAD
+Sh "A29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.9718 -11.814
+$EndPAD
+$PAD
+Sh "A31" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.94361 -11.814
+$EndPAD
+$PAD
+Sh "A33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.91541 -11.814
+$EndPAD
+$PAD
+Sh "A35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -11.814
+$EndPAD
+$PAD
+Sh "A37" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.85902 -11.814
+$EndPAD
+$PAD
+Sh "A39" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.83082 -11.814
+$EndPAD
+$PAD
+Sh "A41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.80263 -11.814
+$EndPAD
+$PAD
+Sh "A43" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.77443 -11.814
+$EndPAD
+$PAD
+Sh "A45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.74624 -11.814
+$EndPAD
+$PAD
+Sh "A47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.6205 -11.814
+$EndPAD
+$PAD
+Sh "A48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.2936 -11.814
+$EndPAD
+$PAD
+Sh "A49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.9921 -11.814
+$EndPAD
+$PAD
+Sh "A51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.7731 -11.814
+$EndPAD
+$PAD
+Sh "A52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.3827 -11.814
+$EndPAD
+$PAD
+Sh "B2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.3827 -11.3828
+$EndPAD
+$PAD
+Sh "B4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6317 -11.2377
+$EndPAD
+$PAD
+Sh "B5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.0383 -11.2225
+$EndPAD
+$PAD
+Sh "B6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.445 -11.2207
+$EndPAD
+$PAD
+Sh "B7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.85164 -11.2296
+$EndPAD
+$PAD
+Sh "B8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.2583 -11.2243
+$EndPAD
+$PAD
+Sh "B10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.26033 -11.429
+$EndPAD
+$PAD
+Sh "B12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.28853 -11.429
+$EndPAD
+$PAD
+Sh "B14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.31673 -11.429
+$EndPAD
+$PAD
+Sh "B16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.34492 -11.429
+$EndPAD
+$PAD
+Sh "B18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.37312 -11.429
+$EndPAD
+$PAD
+Sh "B20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.40131 -11.429
+$EndPAD
+$PAD
+Sh "B22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.42951 -11.429
+$EndPAD
+$PAD
+Sh "B24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.45771 -11.429
+$EndPAD
+$PAD
+Sh "B26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.4859 -11.429
+$EndPAD
+$PAD
+Sh "B28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.4859 -11.429
+$EndPAD
+$PAD
+Sh "B30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.45771 -11.429
+$EndPAD
+$PAD
+Sh "B32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.42951 -11.429
+$EndPAD
+$PAD
+Sh "B34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.40131 -11.429
+$EndPAD
+$PAD
+Sh "B36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.37312 -11.429
+$EndPAD
+$PAD
+Sh "B38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.34492 -11.429
+$EndPAD
+$PAD
+Sh "B40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.31673 -11.429
+$EndPAD
+$PAD
+Sh "B42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.28853 -11.429
+$EndPAD
+$PAD
+Sh "B44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.26033 -11.429
+$EndPAD
+$PAD
+Sh "B46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.2583 -11.2243
+$EndPAD
+$PAD
+Sh "B47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.85164 -11.2296
+$EndPAD
+$PAD
+Sh "B48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.445 -11.2207
+$EndPAD
+$PAD
+Sh "B49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.0383 -11.2225
+$EndPAD
+$PAD
+Sh "B50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6317 -11.2377
+$EndPAD
+$PAD
+Sh "B52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.225 -11.225
+$EndPAD
+$PAD
+Sh "B53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -11.3828
+$EndPAD
+$PAD
+Sh "C1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -10.9515
+$EndPAD
+$PAD
+Sh "C3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6444 -10.6444
+$EndPAD
+$PAD
+Sh "C5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.5799 -10.6428
+$EndPAD
+$PAD
+Sh "C7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.55319 -10.7091
+$EndPAD
+$PAD
+Sh "C9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.69798 -11.0282
+$EndPAD
+$PAD
+Sh "C11" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.77443 -11.0706
+$EndPAD
+$PAD
+Sh "C12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.28853 -10.73
+$EndPAD
+$PAD
+Sh "C13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.80263 -11.0706
+$EndPAD
+$PAD
+Sh "C14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.31673 -10.73
+$EndPAD
+$PAD
+Sh "C15" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.83082 -11.0706
+$EndPAD
+$PAD
+Sh "C16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.34492 -10.73
+$EndPAD
+$PAD
+Sh "C17" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.85902 -11.0706
+$EndPAD
+$PAD
+Sh "C18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.37312 -10.73
+$EndPAD
+$PAD
+Sh "C19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -11.0706
+$EndPAD
+$PAD
+Sh "C20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.40131 -10.73
+$EndPAD
+$PAD
+Sh "C21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.91541 -11.0706
+$EndPAD
+$PAD
+Sh "C22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.42951 -10.73
+$EndPAD
+$PAD
+Sh "C23" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.94361 -11.0706
+$EndPAD
+$PAD
+Sh "C24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.45771 -10.73
+$EndPAD
+$PAD
+Sh "C25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.9718 -11.0706
+$EndPAD
+$PAD
+Sh "C26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.479809 -10.7152
+$EndPAD
+$PAD
+Sh "C27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -11.0706
+$EndPAD
+$PAD
+Sh "C28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.479809 -10.7152
+$EndPAD
+$PAD
+Sh "C29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.9718 -11.0706
+$EndPAD
+$PAD
+Sh "C30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.45771 -10.73
+$EndPAD
+$PAD
+Sh "C31" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.94361 -11.0706
+$EndPAD
+$PAD
+Sh "C32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.42951 -10.73
+$EndPAD
+$PAD
+Sh "C33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.91541 -11.0706
+$EndPAD
+$PAD
+Sh "C34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.40131 -10.73
+$EndPAD
+$PAD
+Sh "C35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -11.0706
+$EndPAD
+$PAD
+Sh "C36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.37312 -10.73
+$EndPAD
+$PAD
+Sh "C37" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.85902 -11.0706
+$EndPAD
+$PAD
+Sh "C38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.34492 -10.73
+$EndPAD
+$PAD
+Sh "C39" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.83082 -11.0706
+$EndPAD
+$PAD
+Sh "C40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.31673 -10.73
+$EndPAD
+$PAD
+Sh "C41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.80263 -11.0706
+$EndPAD
+$PAD
+Sh "C42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.28853 -10.73
+$EndPAD
+$PAD
+Sh "C43" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.77443 -11.0706
+$EndPAD
+$PAD
+Sh "C45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.69798 -11.0282
+$EndPAD
+$PAD
+Sh "C47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.55319 -10.7091
+$EndPAD
+$PAD
+Sh "C49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.5799 -10.6428
+$EndPAD
+$PAD
+Sh "C51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6444 -10.6444
+$EndPAD
+$PAD
+Sh "C53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -10.7732
+$EndPAD
+$PAD
+Sh "D2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2377 -10.6317
+$EndPAD
+$PAD
+Sh "D4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1628 -10.1628
+$EndPAD
+$PAD
+Sh "D6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.1128 -10.2385
+$EndPAD
+$PAD
+Sh "D10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 -10.1684
+$EndPAD
+$PAD
+Sh "D12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 -10.1371
+$EndPAD
+$PAD
+Sh "D14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 -10.1366
+$EndPAD
+$PAD
+Sh "D16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -10.1366
+$EndPAD
+$PAD
+Sh "D18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.38836 -10.1366
+$EndPAD
+$PAD
+Sh "D20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.38607 -10.1366
+$EndPAD
+$PAD
+Sh "D22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -10.1366
+$EndPAD
+$PAD
+Sh "D24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -10.1366
+$EndPAD
+$PAD
+Sh "D26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.462791 -9.99465
+$EndPAD
+$PAD
+Sh "D27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -10.366
+$EndPAD
+$PAD
+Sh "D28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.462791 -9.99465
+$EndPAD
+$PAD
+Sh "D30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -10.1366
+$EndPAD
+$PAD
+Sh "D32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -10.1366
+$EndPAD
+$PAD
+Sh "D34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.38607 -10.1366
+$EndPAD
+$PAD
+Sh "D36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.38836 -10.1366
+$EndPAD
+$PAD
+Sh "D38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -10.1366
+$EndPAD
+$PAD
+Sh "D40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 -10.1366
+$EndPAD
+$PAD
+Sh "D42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 -10.1371
+$EndPAD
+$PAD
+Sh "D44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 -10.1684
+$EndPAD
+$PAD
+Sh "D48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.1128 -10.2385
+$EndPAD
+$PAD
+Sh "D50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1628 -10.1628
+$EndPAD
+$PAD
+Sh "D52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2377 -10.6317
+$EndPAD
+$PAD
+Sh "E1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -10.1704
+$EndPAD
+$PAD
+Sh "E2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2225 -10.0383
+$EndPAD
+$PAD
+Sh "E3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6428 -9.57986
+$EndPAD
+$PAD
+Sh "E8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.32002 -9.747
+$EndPAD
+$PAD
+Sh "E19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -9.81888
+$EndPAD
+$PAD
+Sh "E35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -9.81888
+$EndPAD
+$PAD
+Sh "E46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.32002 -9.747
+$EndPAD
+$PAD
+Sh "E51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6428 -9.57986
+$EndPAD
+$PAD
+Sh "E52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2225 -10.0383
+$EndPAD
+$PAD
+Sh "E53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -9.99211
+$EndPAD
+$PAD
+Sh "F1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -9.44651
+$EndPAD
+$PAD
+Sh "F2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2207 -9.44499
+$EndPAD
+$PAD
+Sh "F5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.5651 -9.30173
+$EndPAD
+$PAD
+Sh "F7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.7122 -9.30173
+$EndPAD
+$PAD
+Sh "F10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 -9.45718
+$EndPAD
+$PAD
+Sh "F12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 -9.46328
+$EndPAD
+$PAD
+Sh "F14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 -9.46328
+$EndPAD
+$PAD
+Sh "F16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -9.46328
+$EndPAD
+$PAD
+Sh "F18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 -9.46328
+$EndPAD
+$PAD
+Sh "F19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -9.10768
+$EndPAD
+$PAD
+Sh "F20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 -9.46328
+$EndPAD
+$PAD
+Sh "F22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -9.46328
+$EndPAD
+$PAD
+Sh "F24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -9.46328
+$EndPAD
+$PAD
+Sh "F26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.525019 -9.40435
+$EndPAD
+$PAD
+Sh "F27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -9.10768
+$EndPAD
+$PAD
+Sh "F28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.525019 -9.40435
+$EndPAD
+$PAD
+Sh "F30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -9.46328
+$EndPAD
+$PAD
+Sh "F32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -9.46328
+$EndPAD
+$PAD
+Sh "F34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 -9.46328
+$EndPAD
+$PAD
+Sh "F35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -9.10768
+$EndPAD
+$PAD
+Sh "F36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 -9.46328
+$EndPAD
+$PAD
+Sh "F38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -9.46328
+$EndPAD
+$PAD
+Sh "F40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 -9.46328
+$EndPAD
+$PAD
+Sh "F42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 -9.46328
+$EndPAD
+$PAD
+Sh "F44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 -9.45718
+$EndPAD
+$PAD
+Sh "F47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.7122 -9.30173
+$EndPAD
+$PAD
+Sh "F49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.5651 -9.30173
+$EndPAD
+$PAD
+Sh "F52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2207 -9.44499
+$EndPAD
+$PAD
+Sh "F53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -9.29361
+$EndPAD
+$PAD
+Sh "G1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -8.67918
+$EndPAD
+$PAD
+Sh "G2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2464 -8.85215
+$EndPAD
+$PAD
+Sh "G10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 -8.76376
+$EndPAD
+$PAD
+Sh "G12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 -8.75208
+$EndPAD
+$PAD
+Sh "G14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 -8.75208
+$EndPAD
+$PAD
+Sh "G16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -8.75208
+$EndPAD
+$PAD
+Sh "G18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 -8.75208
+$EndPAD
+$PAD
+Sh "G20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 -8.75208
+$EndPAD
+$PAD
+Sh "G22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -8.75208
+$EndPAD
+$PAD
+Sh "G24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -8.75208
+$EndPAD
+$PAD
+Sh "G26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 -8.75208
+$EndPAD
+$PAD
+Sh "G28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 -8.75208
+$EndPAD
+$PAD
+Sh "G30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -8.75208
+$EndPAD
+$PAD
+Sh "G32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -8.75208
+$EndPAD
+$PAD
+Sh "G34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 -8.75208
+$EndPAD
+$PAD
+Sh "G36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 -8.75208
+$EndPAD
+$PAD
+Sh "G38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -8.75208
+$EndPAD
+$PAD
+Sh "G40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 -8.75208
+$EndPAD
+$PAD
+Sh "G42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 -8.75208
+$EndPAD
+$PAD
+Sh "G44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 -8.76376
+$EndPAD
+$PAD
+Sh "G52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2464 -8.85215
+$EndPAD
+$PAD
+Sh "G53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -8.62051
+$EndPAD
+$PAD
+Sh "H3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.9289 -8.35076
+$EndPAD
+$PAD
+Sh "H4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.2578 -8.30732
+$EndPAD
+$PAD
+Sh "H5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.5466 -8.30732
+$EndPAD
+$PAD
+Sh "H7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.83539 -8.30732
+$EndPAD
+$PAD
+Sh "H8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.12419 -8.30732
+$EndPAD
+$PAD
+Sh "H10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 -8.17042
+$EndPAD
+$PAD
+Sh "H19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -8.39648
+$EndPAD
+$PAD
+Sh "H27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -8.39648
+$EndPAD
+$PAD
+Sh "H35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -8.39648
+$EndPAD
+$PAD
+Sh "H44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 -8.17042
+$EndPAD
+$PAD
+Sh "H46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.12419 -8.30732
+$EndPAD
+$PAD
+Sh "H47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.83539 -8.30732
+$EndPAD
+$PAD
+Sh "H49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.5466 -8.30732
+$EndPAD
+$PAD
+Sh "H50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.2578 -8.30732
+$EndPAD
+$PAD
+Sh "H51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.9289 -8.35076
+$EndPAD
+$PAD
+Sh "J1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -7.81558
+$EndPAD
+$PAD
+Sh "J3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -7.77443
+$EndPAD
+$PAD
+Sh "J12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 -8.04088
+$EndPAD
+$PAD
+Sh "J14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 -8.04088
+$EndPAD
+$PAD
+Sh "J16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -8.04088
+$EndPAD
+$PAD
+Sh "J18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 -8.04088
+$EndPAD
+$PAD
+Sh "J19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -7.68528
+$EndPAD
+$PAD
+Sh "J20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 -8.04088
+$EndPAD
+$PAD
+Sh "J22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -8.04088
+$EndPAD
+$PAD
+Sh "J24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -8.04088
+$EndPAD
+$PAD
+Sh "J26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 -8.04088
+$EndPAD
+$PAD
+Sh "J27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -7.68528
+$EndPAD
+$PAD
+Sh "J28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 -8.04088
+$EndPAD
+$PAD
+Sh "J30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -8.04088
+$EndPAD
+$PAD
+Sh "J32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -8.04088
+$EndPAD
+$PAD
+Sh "J34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 -8.04088
+$EndPAD
+$PAD
+Sh "J35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -7.68528
+$EndPAD
+$PAD
+Sh "J36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 -8.04088
+$EndPAD
+$PAD
+Sh "J38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -8.04088
+$EndPAD
+$PAD
+Sh "J40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 -8.04088
+$EndPAD
+$PAD
+Sh "J42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 -8.04088
+$EndPAD
+$PAD
+Sh "J51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -7.77443
+$EndPAD
+$PAD
+Sh "J53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -7.77443
+$EndPAD
+$PAD
+Sh "K2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -7.28853
+$EndPAD
+$PAD
+Sh "K3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 -7.28853
+$EndPAD
+$PAD
+Sh "K4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1371 -7.31672
+$EndPAD
+$PAD
+Sh "K6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 -7.31672
+$EndPAD
+$PAD
+Sh "K7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -7.31672
+$EndPAD
+$PAD
+Sh "K9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -7.31672
+$EndPAD
+$PAD
+Sh "K10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -7.31672
+$EndPAD
+$PAD
+Sh "K12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 -7.33958
+$EndPAD
+$PAD
+Sh "K14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 -7.32968
+$EndPAD
+$PAD
+Sh "K16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -7.32968
+$EndPAD
+$PAD
+Sh "K18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 -7.32968
+$EndPAD
+$PAD
+Sh "K20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 -7.32968
+$EndPAD
+$PAD
+Sh "K22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -7.32968
+$EndPAD
+$PAD
+Sh "K24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -7.32968
+$EndPAD
+$PAD
+Sh "K26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 -7.32968
+$EndPAD
+$PAD
+Sh "K28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 -7.32968
+$EndPAD
+$PAD
+Sh "K30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -7.32968
+$EndPAD
+$PAD
+Sh "K32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -7.32968
+$EndPAD
+$PAD
+Sh "K34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 -7.32968
+$EndPAD
+$PAD
+Sh "K36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 -7.32968
+$EndPAD
+$PAD
+Sh "K38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -7.32968
+$EndPAD
+$PAD
+Sh "K40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 -7.32968
+$EndPAD
+$PAD
+Sh "K42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 -7.33958
+$EndPAD
+$PAD
+Sh "K44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -7.31672
+$EndPAD
+$PAD
+Sh "K45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -7.31672
+$EndPAD
+$PAD
+Sh "K47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -7.31672
+$EndPAD
+$PAD
+Sh "K48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 -7.31672
+$EndPAD
+$PAD
+Sh "K50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1371 -7.31672
+$EndPAD
+$PAD
+Sh "K51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 -7.28853
+$EndPAD
+$PAD
+Sh "K52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -7.28853
+$EndPAD
+$PAD
+Sh "L1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -6.80263
+$EndPAD
+$PAD
+Sh "L3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -6.80263
+$EndPAD
+$PAD
+Sh "L13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.75056 -6.9149
+$EndPAD
+$PAD
+Sh "L19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -6.97408
+$EndPAD
+$PAD
+Sh "L27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -6.97408
+$EndPAD
+$PAD
+Sh "L35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -6.97408
+$EndPAD
+$PAD
+Sh "L41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.75056 -6.9149
+$EndPAD
+$PAD
+Sh "L51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -6.80263
+$EndPAD
+$PAD
+Sh "L53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -6.80263
+$EndPAD
+$PAD
+Sh "M2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -6.31673
+$EndPAD
+$PAD
+Sh "M3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 -6.31673
+$EndPAD
+$PAD
+Sh "M4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 -6.32612
+$EndPAD
+$PAD
+Sh "M6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 -6.32612
+$EndPAD
+$PAD
+Sh "M7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -6.32612
+$EndPAD
+$PAD
+Sh "M9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -6.32612
+$EndPAD
+$PAD
+Sh "M10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -6.32612
+$EndPAD
+$PAD
+Sh "M12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 -6.32612
+$EndPAD
+$PAD
+Sh "M13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 -6.32612
+$EndPAD
+$PAD
+Sh "M14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 -6.44601
+$EndPAD
+$PAD
+Sh "M16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -6.61848
+$EndPAD
+$PAD
+Sh "M18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 -6.61848
+$EndPAD
+$PAD
+Sh "M19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -6.26288
+$EndPAD
+$PAD
+Sh "M20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 -6.61848
+$EndPAD
+$PAD
+Sh "M22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -6.61848
+$EndPAD
+$PAD
+Sh "M24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -6.61848
+$EndPAD
+$PAD
+Sh "M26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 -6.61848
+$EndPAD
+$PAD
+Sh "M27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -6.26288
+$EndPAD
+$PAD
+Sh "M28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 -6.61848
+$EndPAD
+$PAD
+Sh "M30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -6.61848
+$EndPAD
+$PAD
+Sh "M32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -6.61848
+$EndPAD
+$PAD
+Sh "M34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 -6.61848
+$EndPAD
+$PAD
+Sh "M35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -6.26288
+$EndPAD
+$PAD
+Sh "M36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 -6.61848
+$EndPAD
+$PAD
+Sh "M38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -6.61848
+$EndPAD
+$PAD
+Sh "M40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 -6.44601
+$EndPAD
+$PAD
+Sh "M41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 -6.32612
+$EndPAD
+$PAD
+Sh "M42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 -6.32612
+$EndPAD
+$PAD
+Sh "M44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -6.32612
+$EndPAD
+$PAD
+Sh "M45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -6.32612
+$EndPAD
+$PAD
+Sh "M47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -6.32612
+$EndPAD
+$PAD
+Sh "M48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 -6.32612
+$EndPAD
+$PAD
+Sh "M50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 -6.32612
+$EndPAD
+$PAD
+Sh "M51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 -6.31673
+$EndPAD
+$PAD
+Sh "M52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -6.31673
+$EndPAD
+$PAD
+Sh "N1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -5.83082
+$EndPAD
+$PAD
+Sh "N3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -5.83082
+$EndPAD
+$PAD
+Sh "N16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -5.90728
+$EndPAD
+$PAD
+Sh "N18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 -5.90728
+$EndPAD
+$PAD
+Sh "N20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 -5.90728
+$EndPAD
+$PAD
+Sh "N22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -5.90728
+$EndPAD
+$PAD
+Sh "N24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -5.90728
+$EndPAD
+$PAD
+Sh "N26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 -5.90728
+$EndPAD
+$PAD
+Sh "N28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 -5.90728
+$EndPAD
+$PAD
+Sh "N30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -5.90728
+$EndPAD
+$PAD
+Sh "N32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -5.90728
+$EndPAD
+$PAD
+Sh "N34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 -5.90728
+$EndPAD
+$PAD
+Sh "N36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 -5.90728
+$EndPAD
+$PAD
+Sh "N38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -5.90728
+$EndPAD
+$PAD
+Sh "N51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -5.83082
+$EndPAD
+$PAD
+Sh "N53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -5.83082
+$EndPAD
+$PAD
+Sh "P2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -5.34492
+$EndPAD
+$PAD
+Sh "P3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 -5.34492
+$EndPAD
+$PAD
+Sh "P4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 -5.33552
+$EndPAD
+$PAD
+Sh "P6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 -5.33552
+$EndPAD
+$PAD
+Sh "P7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -5.33552
+$EndPAD
+$PAD
+Sh "P9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -5.33552
+$EndPAD
+$PAD
+Sh "P10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -5.33552
+$EndPAD
+$PAD
+Sh "P12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 -5.33552
+$EndPAD
+$PAD
+Sh "P13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 -5.33552
+$EndPAD
+$PAD
+Sh "P14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.30479 -5.33552
+$EndPAD
+$PAD
+Sh "P16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 -5.19608
+$EndPAD
+$PAD
+Sh "P18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 -5.19608
+$EndPAD
+$PAD
+Sh "P19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 -5.55168
+$EndPAD
+$PAD
+Sh "P20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 -5.19608
+$EndPAD
+$PAD
+Sh "P22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 -5.19608
+$EndPAD
+$PAD
+Sh "P24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 -5.19608
+$EndPAD
+$PAD
+Sh "P26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 -5.19608
+$EndPAD
+$PAD
+Sh "P27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -5.55168
+$EndPAD
+$PAD
+Sh "P28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 -5.19608
+$EndPAD
+$PAD
+Sh "P30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 -5.19608
+$EndPAD
+$PAD
+Sh "P32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 -5.19608
+$EndPAD
+$PAD
+Sh "P34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 -5.19608
+$EndPAD
+$PAD
+Sh "P35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 -5.55168
+$EndPAD
+$PAD
+Sh "P36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 -5.19608
+$EndPAD
+$PAD
+Sh "P38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 -5.19608
+$EndPAD
+$PAD
+Sh "P40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.30479 -5.33552
+$EndPAD
+$PAD
+Sh "P41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 -5.33552
+$EndPAD
+$PAD
+Sh "P42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 -5.33552
+$EndPAD
+$PAD
+Sh "P44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -5.33552
+$EndPAD
+$PAD
+Sh "P45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -5.33552
+$EndPAD
+$PAD
+Sh "P47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -5.33552
+$EndPAD
+$PAD
+Sh "P48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 -5.33552
+$EndPAD
+$PAD
+Sh "P50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 -5.33552
+$EndPAD
+$PAD
+Sh "P51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 -5.34492
+$EndPAD
+$PAD
+Sh "P52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -5.34492
+$EndPAD
+$PAD
+Sh "R1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -4.85902
+$EndPAD
+$PAD
+Sh "R3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -4.85902
+$EndPAD
+$PAD
+Sh "R51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -4.85902
+$EndPAD
+$PAD
+Sh "R53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -4.85902
+$EndPAD
+$PAD
+Sh "T2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -4.37312
+$EndPAD
+$PAD
+Sh "T3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 -4.37312
+$EndPAD
+$PAD
+Sh "T4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 -4.38836
+$EndPAD
+$PAD
+Sh "T6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 -4.3622
+$EndPAD
+$PAD
+Sh "T7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -4.3622
+$EndPAD
+$PAD
+Sh "T9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -4.3622
+$EndPAD
+$PAD
+Sh "T10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -4.3622
+$EndPAD
+$PAD
+Sh "T12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 -4.3622
+$EndPAD
+$PAD
+Sh "T13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 -4.3622
+$EndPAD
+$PAD
+Sh "T14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 -4.3622
+$EndPAD
+$PAD
+Sh "T40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 -4.3622
+$EndPAD
+$PAD
+Sh "T41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 -4.3622
+$EndPAD
+$PAD
+Sh "T42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 -4.3622
+$EndPAD
+$PAD
+Sh "T44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -4.3622
+$EndPAD
+$PAD
+Sh "T45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -4.3622
+$EndPAD
+$PAD
+Sh "T47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -4.3622
+$EndPAD
+$PAD
+Sh "T48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 -4.3622
+$EndPAD
+$PAD
+Sh "T50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 -4.38836
+$EndPAD
+$PAD
+Sh "T51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 -4.37312
+$EndPAD
+$PAD
+Sh "T52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -4.37312
+$EndPAD
+$PAD
+Sh "U1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -3.88722
+$EndPAD
+$PAD
+Sh "U3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -3.88722
+$EndPAD
+$PAD
+Sh "U5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.8189 -3.88722
+$EndPAD
+$PAD
+Sh "U6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.1077 -3.88722
+$EndPAD
+$PAD
+Sh "U8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.39648 -3.88722
+$EndPAD
+$PAD
+Sh "U9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.68528 -3.88722
+$EndPAD
+$PAD
+Sh "U11" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.97408 -3.88722
+$EndPAD
+$PAD
+Sh "U12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.26288 -3.88722
+$EndPAD
+$PAD
+Sh "U14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.55168 -3.88722
+$EndPAD
+$PAD
+Sh "U16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 -4.31394
+$EndPAD
+$PAD
+Sh "U18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 -4.31394
+$EndPAD
+$PAD
+Sh "U19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 -4.31394
+$EndPAD
+$PAD
+Sh "U21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 -4.31394
+$EndPAD
+$PAD
+Sh "U22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 -4.31394
+$EndPAD
+$PAD
+Sh "U24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 -4.31394
+$EndPAD
+$PAD
+Sh "U25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 -4.31394
+$EndPAD
+$PAD
+Sh "U27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -4.31394
+$EndPAD
+$PAD
+Sh "U29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 -4.31394
+$EndPAD
+$PAD
+Sh "U30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 -4.31394
+$EndPAD
+$PAD
+Sh "U32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 -4.31394
+$EndPAD
+$PAD
+Sh "U33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 -4.31394
+$EndPAD
+$PAD
+Sh "U35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 -4.31394
+$EndPAD
+$PAD
+Sh "U36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 -4.31394
+$EndPAD
+$PAD
+Sh "U38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 -4.31394
+$EndPAD
+$PAD
+Sh "U40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.55168 -3.88722
+$EndPAD
+$PAD
+Sh "U42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.26288 -3.88722
+$EndPAD
+$PAD
+Sh "U43" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.97408 -3.88722
+$EndPAD
+$PAD
+Sh "U45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.68528 -3.88722
+$EndPAD
+$PAD
+Sh "U46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.39648 -3.88722
+$EndPAD
+$PAD
+Sh "U48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.1077 -3.88722
+$EndPAD
+$PAD
+Sh "U49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.8189 -3.88722
+$EndPAD
+$PAD
+Sh "U51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -3.88722
+$EndPAD
+$PAD
+Sh "U53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -3.88722
+$EndPAD
+$PAD
+Sh "V2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -3.40131
+$EndPAD
+$PAD
+Sh "V3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 -3.40131
+$EndPAD
+$PAD
+Sh "V4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 -3.38607
+$EndPAD
+$PAD
+Sh "V6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 -3.41224
+$EndPAD
+$PAD
+Sh "V7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -3.41224
+$EndPAD
+$PAD
+Sh "V9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -3.41224
+$EndPAD
+$PAD
+Sh "V10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -3.41224
+$EndPAD
+$PAD
+Sh "V12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 -3.41224
+$EndPAD
+$PAD
+Sh "V13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 -3.41224
+$EndPAD
+$PAD
+Sh "V14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 -3.41224
+$EndPAD
+$PAD
+Sh "V16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 -3.52958
+$EndPAD
+$PAD
+Sh "V18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 -3.52958
+$EndPAD
+$PAD
+Sh "V19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 -3.52958
+$EndPAD
+$PAD
+Sh "V21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 -3.52958
+$EndPAD
+$PAD
+Sh "V22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 -3.52958
+$EndPAD
+$PAD
+Sh "V24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 -3.52958
+$EndPAD
+$PAD
+Sh "V25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 -3.52958
+$EndPAD
+$PAD
+Sh "V27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -3.52958
+$EndPAD
+$PAD
+Sh "V29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 -3.52958
+$EndPAD
+$PAD
+Sh "V30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 -3.52958
+$EndPAD
+$PAD
+Sh "V32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 -3.52958
+$EndPAD
+$PAD
+Sh "V33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 -3.52958
+$EndPAD
+$PAD
+Sh "V35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 -3.52958
+$EndPAD
+$PAD
+Sh "V36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 -3.52958
+$EndPAD
+$PAD
+Sh "V38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 -3.52958
+$EndPAD
+$PAD
+Sh "V40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 -3.41224
+$EndPAD
+$PAD
+Sh "V41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 -3.41224
+$EndPAD
+$PAD
+Sh "V42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 -3.41224
+$EndPAD
+$PAD
+Sh "V44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -3.41224
+$EndPAD
+$PAD
+Sh "V45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -3.41224
+$EndPAD
+$PAD
+Sh "V47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -3.41224
+$EndPAD
+$PAD
+Sh "V48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 -3.41224
+$EndPAD
+$PAD
+Sh "V50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 -3.38607
+$EndPAD
+$PAD
+Sh "V51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 -3.40131
+$EndPAD
+$PAD
+Sh "V52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -3.40131
+$EndPAD
+$PAD
+Sh "W1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -2.91541
+$EndPAD
+$PAD
+Sh "W3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -2.91541
+$EndPAD
+$PAD
+Sh "W51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -2.91541
+$EndPAD
+$PAD
+Sh "W53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -2.91541
+$EndPAD
+$PAD
+Sh "Y2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -2.42951
+$EndPAD
+$PAD
+Sh "Y3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 -2.42951
+$EndPAD
+$PAD
+Sh "Y4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 -2.43891
+$EndPAD
+$PAD
+Sh "Y6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 -2.43891
+$EndPAD
+$PAD
+Sh "Y7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -2.43891
+$EndPAD
+$PAD
+Sh "Y9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -2.43891
+$EndPAD
+$PAD
+Sh "Y10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -2.43891
+$EndPAD
+$PAD
+Sh "Y12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 -2.43891
+$EndPAD
+$PAD
+Sh "Y13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 -2.43891
+$EndPAD
+$PAD
+Sh "Y14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 -2.43891
+$EndPAD
+$PAD
+Sh "Y16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 -2.74523
+$EndPAD
+$PAD
+Sh "Y18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 -2.74523
+$EndPAD
+$PAD
+Sh "Y19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 -2.74523
+$EndPAD
+$PAD
+Sh "Y21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 -2.74523
+$EndPAD
+$PAD
+Sh "Y22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 -2.74523
+$EndPAD
+$PAD
+Sh "Y24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 -2.74523
+$EndPAD
+$PAD
+Sh "Y25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 -2.74523
+$EndPAD
+$PAD
+Sh "Y27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -2.74523
+$EndPAD
+$PAD
+Sh "Y29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 -2.74523
+$EndPAD
+$PAD
+Sh "Y30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 -2.74523
+$EndPAD
+$PAD
+Sh "Y32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 -2.74523
+$EndPAD
+$PAD
+Sh "Y33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 -2.74523
+$EndPAD
+$PAD
+Sh "Y35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 -2.74523
+$EndPAD
+$PAD
+Sh "Y36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 -2.74523
+$EndPAD
+$PAD
+Sh "Y38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 -2.74523
+$EndPAD
+$PAD
+Sh "Y40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 -2.43891
+$EndPAD
+$PAD
+Sh "Y41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 -2.43891
+$EndPAD
+$PAD
+Sh "Y42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 -2.43891
+$EndPAD
+$PAD
+Sh "Y44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -2.43891
+$EndPAD
+$PAD
+Sh "Y45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -2.43891
+$EndPAD
+$PAD
+Sh "Y47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -2.43891
+$EndPAD
+$PAD
+Sh "Y48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 -2.43891
+$EndPAD
+$PAD
+Sh "Y50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 -2.43891
+$EndPAD
+$PAD
+Sh "Y51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 -2.42951
+$EndPAD
+$PAD
+Sh "Y52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -2.42951
+$EndPAD
+$PAD
+Sh "AA1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -1.94361
+$EndPAD
+$PAD
+Sh "AA3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -1.94361
+$EndPAD
+$PAD
+Sh "AA16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 -1.96088
+$EndPAD
+$PAD
+Sh "AA18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 -1.96088
+$EndPAD
+$PAD
+Sh "AA19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 -1.96088
+$EndPAD
+$PAD
+Sh "AA21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 -1.96088
+$EndPAD
+$PAD
+Sh "AA22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 -1.96088
+$EndPAD
+$PAD
+Sh "AA24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 -1.96088
+$EndPAD
+$PAD
+Sh "AA25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 -1.96088
+$EndPAD
+$PAD
+Sh "AA27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -1.96088
+$EndPAD
+$PAD
+Sh "AA29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 -1.96088
+$EndPAD
+$PAD
+Sh "AA30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 -1.96088
+$EndPAD
+$PAD
+Sh "AA32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 -1.96088
+$EndPAD
+$PAD
+Sh "AA33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 -1.96088
+$EndPAD
+$PAD
+Sh "AA35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 -1.96088
+$EndPAD
+$PAD
+Sh "AA36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 -1.96088
+$EndPAD
+$PAD
+Sh "AA38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 -1.96088
+$EndPAD
+$PAD
+Sh "AA51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -1.94361
+$EndPAD
+$PAD
+Sh "AA53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -1.94361
+$EndPAD
+$PAD
+Sh "AB2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -1.45771
+$EndPAD
+$PAD
+Sh "AB3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 -1.45771
+$EndPAD
+$PAD
+Sh "AB4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 -1.44831
+$EndPAD
+$PAD
+Sh "AB6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 -1.44831
+$EndPAD
+$PAD
+Sh "AB7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -1.44831
+$EndPAD
+$PAD
+Sh "AB9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -1.44831
+$EndPAD
+$PAD
+Sh "AB10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -1.44831
+$EndPAD
+$PAD
+Sh "AB12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 -1.44831
+$EndPAD
+$PAD
+Sh "AB13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 -1.44831
+$EndPAD
+$PAD
+Sh "AB14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 -1.44831
+$EndPAD
+$PAD
+Sh "AB40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 -1.44831
+$EndPAD
+$PAD
+Sh "AB41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 -1.44831
+$EndPAD
+$PAD
+Sh "AB42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 -1.44831
+$EndPAD
+$PAD
+Sh "AB44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -1.44831
+$EndPAD
+$PAD
+Sh "AB45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -1.44831
+$EndPAD
+$PAD
+Sh "AB47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -1.44831
+$EndPAD
+$PAD
+Sh "AB48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 -1.44831
+$EndPAD
+$PAD
+Sh "AB50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 -1.44831
+$EndPAD
+$PAD
+Sh "AB51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 -1.45771
+$EndPAD
+$PAD
+Sh "AB52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -1.45771
+$EndPAD
+$PAD
+Sh "AC1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 -0.9718
+$EndPAD
+$PAD
+Sh "AC3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 -0.9718
+$EndPAD
+$PAD
+Sh "AC16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 -1.17653
+$EndPAD
+$PAD
+Sh "AC18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 -1.17653
+$EndPAD
+$PAD
+Sh "AC19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 -1.17653
+$EndPAD
+$PAD
+Sh "AC21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 -1.17653
+$EndPAD
+$PAD
+Sh "AC22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 -1.17653
+$EndPAD
+$PAD
+Sh "AC24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 -1.17653
+$EndPAD
+$PAD
+Sh "AC25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 -1.17653
+$EndPAD
+$PAD
+Sh "AC27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -1.17653
+$EndPAD
+$PAD
+Sh "AC29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 -1.17653
+$EndPAD
+$PAD
+Sh "AC30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 -1.17653
+$EndPAD
+$PAD
+Sh "AC32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 -1.17653
+$EndPAD
+$PAD
+Sh "AC33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 -1.17653
+$EndPAD
+$PAD
+Sh "AC35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 -1.17653
+$EndPAD
+$PAD
+Sh "AC36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 -1.17653
+$EndPAD
+$PAD
+Sh "AC38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 -1.17653
+$EndPAD
+$PAD
+Sh "AC51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 -0.9718
+$EndPAD
+$PAD
+Sh "AC53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 -0.9718
+$EndPAD
+$PAD
+Sh "AD2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 -0.4859
+$EndPAD
+$PAD
+Sh "AD3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.7152 -0.479809
+$EndPAD
+$PAD
+Sh "AD4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.9946 -0.462791
+$EndPAD
+$PAD
+Sh "AD6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4044 -0.525019
+$EndPAD
+$PAD
+Sh "AD7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 -0.474981
+$EndPAD
+$PAD
+Sh "AD9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 -0.474981
+$EndPAD
+$PAD
+Sh "AD10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 -0.474981
+$EndPAD
+$PAD
+Sh "AD12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 -0.474981
+$EndPAD
+$PAD
+Sh "AD13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 -0.474981
+$EndPAD
+$PAD
+Sh "AD14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 -0.474981
+$EndPAD
+$PAD
+Sh "AD16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 -0.392181
+$EndPAD
+$PAD
+Sh "AD18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 -0.392181
+$EndPAD
+$PAD
+Sh "AD19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 -0.392181
+$EndPAD
+$PAD
+Sh "AD21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 -0.392181
+$EndPAD
+$PAD
+Sh "AD22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 -0.392181
+$EndPAD
+$PAD
+Sh "AD24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 -0.392181
+$EndPAD
+$PAD
+Sh "AD25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 -0.392181
+$EndPAD
+$PAD
+Sh "AD27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -0.392181
+$EndPAD
+$PAD
+Sh "AD29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 -0.392181
+$EndPAD
+$PAD
+Sh "AD30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 -0.392181
+$EndPAD
+$PAD
+Sh "AD32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 -0.392181
+$EndPAD
+$PAD
+Sh "AD33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 -0.392181
+$EndPAD
+$PAD
+Sh "AD35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 -0.392181
+$EndPAD
+$PAD
+Sh "AD36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 -0.392181
+$EndPAD
+$PAD
+Sh "AD38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 -0.392181
+$EndPAD
+$PAD
+Sh "AD40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 -0.474981
+$EndPAD
+$PAD
+Sh "AD41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 -0.474981
+$EndPAD
+$PAD
+Sh "AD42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 -0.474981
+$EndPAD
+$PAD
+Sh "AD44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 -0.474981
+$EndPAD
+$PAD
+Sh "AD45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 -0.474981
+$EndPAD
+$PAD
+Sh "AD47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 -0.474981
+$EndPAD
+$PAD
+Sh "AD48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4044 -0.525019
+$EndPAD
+$PAD
+Sh "AD50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.9946 -0.462791
+$EndPAD
+$PAD
+Sh "AD51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.7152 -0.479809
+$EndPAD
+$PAD
+Sh "AD52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 -0.4859
+$EndPAD
+$PAD
+Sh "AE1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 0
+$EndPAD
+$PAD
+Sh "AE3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 0
+$EndPAD
+$PAD
+Sh "AE4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.366 0
+$EndPAD
+$PAD
+Sh "AE6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.1077 0
+$EndPAD
+$PAD
+Sh "AE8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.39648 0
+$EndPAD
+$PAD
+Sh "AE9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.68528 0
+$EndPAD
+$PAD
+Sh "AE11" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.97408 0
+$EndPAD
+$PAD
+Sh "AE12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.26288 0
+$EndPAD
+$PAD
+Sh "AE14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.55168 0
+$EndPAD
+$PAD
+Sh "AE40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.55168 0
+$EndPAD
+$PAD
+Sh "AE42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.26288 0
+$EndPAD
+$PAD
+Sh "AE43" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.97408 0
+$EndPAD
+$PAD
+Sh "AE45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.68528 0
+$EndPAD
+$PAD
+Sh "AE46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.39648 0
+$EndPAD
+$PAD
+Sh "AE48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.1077 0
+$EndPAD
+$PAD
+Sh "AE50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.366 0
+$EndPAD
+$PAD
+Sh "AE51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 0
+$EndPAD
+$PAD
+Sh "AE53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 0
+$EndPAD
+$PAD
+Sh "AF2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 0.4859
+$EndPAD
+$PAD
+Sh "AF3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.7152 0.479809
+$EndPAD
+$PAD
+Sh "AF4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.9946 0.462791
+$EndPAD
+$PAD
+Sh "AF6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4044 0.525019
+$EndPAD
+$PAD
+Sh "AF7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 0.474981
+$EndPAD
+$PAD
+Sh "AF9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 0.474981
+$EndPAD
+$PAD
+Sh "AF10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 0.474981
+$EndPAD
+$PAD
+Sh "AF12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 0.474981
+$EndPAD
+$PAD
+Sh "AF13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 0.474981
+$EndPAD
+$PAD
+Sh "AF14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 0.474981
+$EndPAD
+$PAD
+Sh "AF16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 0.392181
+$EndPAD
+$PAD
+Sh "AF18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 0.392181
+$EndPAD
+$PAD
+Sh "AF19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 0.392181
+$EndPAD
+$PAD
+Sh "AF21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 0.392181
+$EndPAD
+$PAD
+Sh "AF22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 0.392181
+$EndPAD
+$PAD
+Sh "AF24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 0.392181
+$EndPAD
+$PAD
+Sh "AF25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 0.392181
+$EndPAD
+$PAD
+Sh "AF27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 0.392181
+$EndPAD
+$PAD
+Sh "AF29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 0.392181
+$EndPAD
+$PAD
+Sh "AF30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 0.392181
+$EndPAD
+$PAD
+Sh "AF32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 0.392181
+$EndPAD
+$PAD
+Sh "AF33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 0.392181
+$EndPAD
+$PAD
+Sh "AF35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 0.392181
+$EndPAD
+$PAD
+Sh "AF36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 0.392181
+$EndPAD
+$PAD
+Sh "AF38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 0.392181
+$EndPAD
+$PAD
+Sh "AF40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 0.474981
+$EndPAD
+$PAD
+Sh "AF41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 0.474981
+$EndPAD
+$PAD
+Sh "AF42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 0.474981
+$EndPAD
+$PAD
+Sh "AF44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 0.474981
+$EndPAD
+$PAD
+Sh "AF45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 0.474981
+$EndPAD
+$PAD
+Sh "AF47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 0.474981
+$EndPAD
+$PAD
+Sh "AF48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4044 0.525019
+$EndPAD
+$PAD
+Sh "AF50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.9946 0.462791
+$EndPAD
+$PAD
+Sh "AF51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.7152 0.479809
+$EndPAD
+$PAD
+Sh "AF52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 0.4859
+$EndPAD
+$PAD
+Sh "AG1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 0.9718
+$EndPAD
+$PAD
+Sh "AG3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 0.9718
+$EndPAD
+$PAD
+Sh "AG16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 1.17653
+$EndPAD
+$PAD
+Sh "AG18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 1.17653
+$EndPAD
+$PAD
+Sh "AG19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 1.17653
+$EndPAD
+$PAD
+Sh "AG21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 1.17653
+$EndPAD
+$PAD
+Sh "AG22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 1.17653
+$EndPAD
+$PAD
+Sh "AG24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 1.17653
+$EndPAD
+$PAD
+Sh "AG25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 1.17653
+$EndPAD
+$PAD
+Sh "AG27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 1.17653
+$EndPAD
+$PAD
+Sh "AG29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 1.17653
+$EndPAD
+$PAD
+Sh "AG30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 1.17653
+$EndPAD
+$PAD
+Sh "AG32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 1.17653
+$EndPAD
+$PAD
+Sh "AG33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 1.17653
+$EndPAD
+$PAD
+Sh "AG35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 1.17653
+$EndPAD
+$PAD
+Sh "AG36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 1.17653
+$EndPAD
+$PAD
+Sh "AG38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 1.17653
+$EndPAD
+$PAD
+Sh "AG51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 0.9718
+$EndPAD
+$PAD
+Sh "AG53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 0.9718
+$EndPAD
+$PAD
+Sh "AH2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 1.45771
+$EndPAD
+$PAD
+Sh "AH3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 1.45771
+$EndPAD
+$PAD
+Sh "AH4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 1.44831
+$EndPAD
+$PAD
+Sh "AH6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 1.44831
+$EndPAD
+$PAD
+Sh "AH7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 1.44831
+$EndPAD
+$PAD
+Sh "AH9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 1.44831
+$EndPAD
+$PAD
+Sh "AH10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 1.44831
+$EndPAD
+$PAD
+Sh "AH12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 1.44831
+$EndPAD
+$PAD
+Sh "AH13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 1.44831
+$EndPAD
+$PAD
+Sh "AH14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 1.44831
+$EndPAD
+$PAD
+Sh "AH40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 1.44831
+$EndPAD
+$PAD
+Sh "AH41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 1.44831
+$EndPAD
+$PAD
+Sh "AH42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 1.44831
+$EndPAD
+$PAD
+Sh "AH44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 1.44831
+$EndPAD
+$PAD
+Sh "AH45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 1.44831
+$EndPAD
+$PAD
+Sh "AH47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 1.44831
+$EndPAD
+$PAD
+Sh "AH48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 1.44831
+$EndPAD
+$PAD
+Sh "AH50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 1.44831
+$EndPAD
+$PAD
+Sh "AH51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 1.45771
+$EndPAD
+$PAD
+Sh "AH52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 1.45771
+$EndPAD
+$PAD
+Sh "AJ1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 1.94361
+$EndPAD
+$PAD
+Sh "AJ3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 1.94361
+$EndPAD
+$PAD
+Sh "AJ16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 1.96088
+$EndPAD
+$PAD
+Sh "AJ18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 1.96088
+$EndPAD
+$PAD
+Sh "AJ19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 1.96088
+$EndPAD
+$PAD
+Sh "AJ21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 1.96088
+$EndPAD
+$PAD
+Sh "AJ22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 1.96088
+$EndPAD
+$PAD
+Sh "AJ24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 1.96088
+$EndPAD
+$PAD
+Sh "AJ25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 1.96088
+$EndPAD
+$PAD
+Sh "AJ27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 1.96088
+$EndPAD
+$PAD
+Sh "AJ29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 1.96088
+$EndPAD
+$PAD
+Sh "AJ30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 1.96088
+$EndPAD
+$PAD
+Sh "AJ32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 1.96088
+$EndPAD
+$PAD
+Sh "AJ33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 1.96088
+$EndPAD
+$PAD
+Sh "AJ35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 1.96088
+$EndPAD
+$PAD
+Sh "AJ36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 1.96088
+$EndPAD
+$PAD
+Sh "AJ38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 1.96088
+$EndPAD
+$PAD
+Sh "AJ51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 1.94361
+$EndPAD
+$PAD
+Sh "AJ53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 1.94361
+$EndPAD
+$PAD
+Sh "AK2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 2.42951
+$EndPAD
+$PAD
+Sh "AK3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 2.42951
+$EndPAD
+$PAD
+Sh "AK4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 2.43891
+$EndPAD
+$PAD
+Sh "AK6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 2.43891
+$EndPAD
+$PAD
+Sh "AK7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 2.43891
+$EndPAD
+$PAD
+Sh "AK9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 2.43891
+$EndPAD
+$PAD
+Sh "AK10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 2.43891
+$EndPAD
+$PAD
+Sh "AK12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 2.43891
+$EndPAD
+$PAD
+Sh "AK13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 2.43891
+$EndPAD
+$PAD
+Sh "AK14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 2.43891
+$EndPAD
+$PAD
+Sh "AK16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 2.74523
+$EndPAD
+$PAD
+Sh "AK18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 2.74523
+$EndPAD
+$PAD
+Sh "AK19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 2.74523
+$EndPAD
+$PAD
+Sh "AK21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 2.74523
+$EndPAD
+$PAD
+Sh "AK22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 2.74523
+$EndPAD
+$PAD
+Sh "AK24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 2.74523
+$EndPAD
+$PAD
+Sh "AK25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 2.74523
+$EndPAD
+$PAD
+Sh "AK27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 2.74523
+$EndPAD
+$PAD
+Sh "AK29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 2.74523
+$EndPAD
+$PAD
+Sh "AK30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 2.74523
+$EndPAD
+$PAD
+Sh "AK32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 2.74523
+$EndPAD
+$PAD
+Sh "AK33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 2.74523
+$EndPAD
+$PAD
+Sh "AK35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 2.74523
+$EndPAD
+$PAD
+Sh "AK36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 2.74523
+$EndPAD
+$PAD
+Sh "AK38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 2.74523
+$EndPAD
+$PAD
+Sh "AK40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 2.43891
+$EndPAD
+$PAD
+Sh "AK41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 2.43891
+$EndPAD
+$PAD
+Sh "AK42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 2.43891
+$EndPAD
+$PAD
+Sh "AK44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 2.43891
+$EndPAD
+$PAD
+Sh "AK45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 2.43891
+$EndPAD
+$PAD
+Sh "AK47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 2.43891
+$EndPAD
+$PAD
+Sh "AK48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 2.43891
+$EndPAD
+$PAD
+Sh "AK50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 2.43891
+$EndPAD
+$PAD
+Sh "AK51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 2.42951
+$EndPAD
+$PAD
+Sh "AK52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 2.42951
+$EndPAD
+$PAD
+Sh "AL1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 2.91541
+$EndPAD
+$PAD
+Sh "AL3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 2.91541
+$EndPAD
+$PAD
+Sh "AL51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 2.91541
+$EndPAD
+$PAD
+Sh "AL53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 2.91541
+$EndPAD
+$PAD
+Sh "AM2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 3.40131
+$EndPAD
+$PAD
+Sh "AM3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 3.40131
+$EndPAD
+$PAD
+Sh "AM4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 3.38607
+$EndPAD
+$PAD
+Sh "AM6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 3.41224
+$EndPAD
+$PAD
+Sh "AM7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 3.41224
+$EndPAD
+$PAD
+Sh "AM9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 3.41224
+$EndPAD
+$PAD
+Sh "AM10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 3.41224
+$EndPAD
+$PAD
+Sh "AM12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 3.41224
+$EndPAD
+$PAD
+Sh "AM13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 3.41224
+$EndPAD
+$PAD
+Sh "AM14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 3.41224
+$EndPAD
+$PAD
+Sh "AM16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 3.52958
+$EndPAD
+$PAD
+Sh "AM18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 3.52958
+$EndPAD
+$PAD
+Sh "AM19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 3.52958
+$EndPAD
+$PAD
+Sh "AM21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 3.52958
+$EndPAD
+$PAD
+Sh "AM22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 3.52958
+$EndPAD
+$PAD
+Sh "AM24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 3.52958
+$EndPAD
+$PAD
+Sh "AM25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 3.52958
+$EndPAD
+$PAD
+Sh "AM27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 3.52958
+$EndPAD
+$PAD
+Sh "AM29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 3.52958
+$EndPAD
+$PAD
+Sh "AM30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 3.52958
+$EndPAD
+$PAD
+Sh "AM32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 3.52958
+$EndPAD
+$PAD
+Sh "AM33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 3.52958
+$EndPAD
+$PAD
+Sh "AM35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 3.52958
+$EndPAD
+$PAD
+Sh "AM36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 3.52958
+$EndPAD
+$PAD
+Sh "AM38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 3.52958
+$EndPAD
+$PAD
+Sh "AM40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 3.41224
+$EndPAD
+$PAD
+Sh "AM41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 3.41224
+$EndPAD
+$PAD
+Sh "AM42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 3.41224
+$EndPAD
+$PAD
+Sh "AM44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 3.41224
+$EndPAD
+$PAD
+Sh "AM45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 3.41224
+$EndPAD
+$PAD
+Sh "AM47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 3.41224
+$EndPAD
+$PAD
+Sh "AM48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 3.41224
+$EndPAD
+$PAD
+Sh "AM50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 3.38607
+$EndPAD
+$PAD
+Sh "AM51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 3.40131
+$EndPAD
+$PAD
+Sh "AM52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 3.40131
+$EndPAD
+$PAD
+Sh "AN1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 3.88722
+$EndPAD
+$PAD
+Sh "AN3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 3.88722
+$EndPAD
+$PAD
+Sh "AN5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.8189 3.88722
+$EndPAD
+$PAD
+Sh "AN6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.1077 3.88722
+$EndPAD
+$PAD
+Sh "AN8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.39648 3.88722
+$EndPAD
+$PAD
+Sh "AN9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.68528 3.88722
+$EndPAD
+$PAD
+Sh "AN11" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.97408 3.88722
+$EndPAD
+$PAD
+Sh "AN12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.26288 3.88722
+$EndPAD
+$PAD
+Sh "AN14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.55168 3.88722
+$EndPAD
+$PAD
+Sh "AN16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.30733 4.31394
+$EndPAD
+$PAD
+Sh "AN18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.54914 4.31394
+$EndPAD
+$PAD
+Sh "AN19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.79095 4.31394
+$EndPAD
+$PAD
+Sh "AN21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.03276 4.31394
+$EndPAD
+$PAD
+Sh "AN22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.27457 4.31394
+$EndPAD
+$PAD
+Sh "AN24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.51638 4.31394
+$EndPAD
+$PAD
+Sh "AN25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.758191 4.31394
+$EndPAD
+$PAD
+Sh "AN27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 4.31394
+$EndPAD
+$PAD
+Sh "AN29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.758191 4.31394
+$EndPAD
+$PAD
+Sh "AN30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.51638 4.31394
+$EndPAD
+$PAD
+Sh "AN32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.27457 4.31394
+$EndPAD
+$PAD
+Sh "AN33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.03276 4.31394
+$EndPAD
+$PAD
+Sh "AN35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.79095 4.31394
+$EndPAD
+$PAD
+Sh "AN36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.54914 4.31394
+$EndPAD
+$PAD
+Sh "AN38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.30733 4.31394
+$EndPAD
+$PAD
+Sh "AN40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.55168 3.88722
+$EndPAD
+$PAD
+Sh "AN42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.26288 3.88722
+$EndPAD
+$PAD
+Sh "AN43" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.97408 3.88722
+$EndPAD
+$PAD
+Sh "AN45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.68528 3.88722
+$EndPAD
+$PAD
+Sh "AN46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.39648 3.88722
+$EndPAD
+$PAD
+Sh "AN48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.1077 3.88722
+$EndPAD
+$PAD
+Sh "AN49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.8189 3.88722
+$EndPAD
+$PAD
+Sh "AN51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 3.88722
+$EndPAD
+$PAD
+Sh "AN53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 3.88722
+$EndPAD
+$PAD
+Sh "AP2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 4.37312
+$EndPAD
+$PAD
+Sh "AP3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 4.37312
+$EndPAD
+$PAD
+Sh "AP4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 4.38836
+$EndPAD
+$PAD
+Sh "AP6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 4.3622
+$EndPAD
+$PAD
+Sh "AP7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 4.3622
+$EndPAD
+$PAD
+Sh "AP9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 4.3622
+$EndPAD
+$PAD
+Sh "AP10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 4.3622
+$EndPAD
+$PAD
+Sh "AP12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 4.3622
+$EndPAD
+$PAD
+Sh "AP13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 4.3622
+$EndPAD
+$PAD
+Sh "AP14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.19608 4.3622
+$EndPAD
+$PAD
+Sh "AP40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.19608 4.3622
+$EndPAD
+$PAD
+Sh "AP41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 4.3622
+$EndPAD
+$PAD
+Sh "AP42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 4.3622
+$EndPAD
+$PAD
+Sh "AP44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 4.3622
+$EndPAD
+$PAD
+Sh "AP45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 4.3622
+$EndPAD
+$PAD
+Sh "AP47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 4.3622
+$EndPAD
+$PAD
+Sh "AP48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 4.3622
+$EndPAD
+$PAD
+Sh "AP50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 4.38836
+$EndPAD
+$PAD
+Sh "AP51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 4.37312
+$EndPAD
+$PAD
+Sh "AP52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 4.37312
+$EndPAD
+$PAD
+Sh "AR1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 4.85902
+$EndPAD
+$PAD
+Sh "AR3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 4.85902
+$EndPAD
+$PAD
+Sh "AR51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 4.85902
+$EndPAD
+$PAD
+Sh "AR53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 4.85902
+$EndPAD
+$PAD
+Sh "AT2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 5.34492
+$EndPAD
+$PAD
+Sh "AT3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 5.34492
+$EndPAD
+$PAD
+Sh "AT4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 5.33552
+$EndPAD
+$PAD
+Sh "AT6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 5.33552
+$EndPAD
+$PAD
+Sh "AT7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 5.33552
+$EndPAD
+$PAD
+Sh "AT9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 5.33552
+$EndPAD
+$PAD
+Sh "AT10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 5.33552
+$EndPAD
+$PAD
+Sh "AT12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 5.33552
+$EndPAD
+$PAD
+Sh "AT13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 5.33552
+$EndPAD
+$PAD
+Sh "AT14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.30479 5.33552
+$EndPAD
+$PAD
+Sh "AT16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 5.19608
+$EndPAD
+$PAD
+Sh "AT18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 5.19608
+$EndPAD
+$PAD
+Sh "AT19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 5.55168
+$EndPAD
+$PAD
+Sh "AT20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 5.19608
+$EndPAD
+$PAD
+Sh "AT22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 5.19608
+$EndPAD
+$PAD
+Sh "AT24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 5.19608
+$EndPAD
+$PAD
+Sh "AT26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 5.19608
+$EndPAD
+$PAD
+Sh "AT27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 5.55168
+$EndPAD
+$PAD
+Sh "AT28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 5.19608
+$EndPAD
+$PAD
+Sh "AT30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 5.19608
+$EndPAD
+$PAD
+Sh "AT32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 5.19608
+$EndPAD
+$PAD
+Sh "AT34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 5.19608
+$EndPAD
+$PAD
+Sh "AT35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 5.55168
+$EndPAD
+$PAD
+Sh "AT36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 5.19608
+$EndPAD
+$PAD
+Sh "AT38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 5.19608
+$EndPAD
+$PAD
+Sh "AT40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.30479 5.33552
+$EndPAD
+$PAD
+Sh "AT41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 5.33552
+$EndPAD
+$PAD
+Sh "AT42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 5.33552
+$EndPAD
+$PAD
+Sh "AT44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 5.33552
+$EndPAD
+$PAD
+Sh "AT45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 5.33552
+$EndPAD
+$PAD
+Sh "AT47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 5.33552
+$EndPAD
+$PAD
+Sh "AT48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 5.33552
+$EndPAD
+$PAD
+Sh "AT50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 5.33552
+$EndPAD
+$PAD
+Sh "AT51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 5.34492
+$EndPAD
+$PAD
+Sh "AT52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 5.34492
+$EndPAD
+$PAD
+Sh "AU1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 5.83082
+$EndPAD
+$PAD
+Sh "AU3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 5.83082
+$EndPAD
+$PAD
+Sh "AU16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 5.90728
+$EndPAD
+$PAD
+Sh "AU18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 5.90728
+$EndPAD
+$PAD
+Sh "AU20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 5.90728
+$EndPAD
+$PAD
+Sh "AU22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 5.90728
+$EndPAD
+$PAD
+Sh "AU24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 5.90728
+$EndPAD
+$PAD
+Sh "AU26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 5.90728
+$EndPAD
+$PAD
+Sh "AU28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 5.90728
+$EndPAD
+$PAD
+Sh "AU30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 5.90728
+$EndPAD
+$PAD
+Sh "AU32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 5.90728
+$EndPAD
+$PAD
+Sh "AU34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 5.90728
+$EndPAD
+$PAD
+Sh "AU36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 5.90728
+$EndPAD
+$PAD
+Sh "AU38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 5.90728
+$EndPAD
+$PAD
+Sh "AU51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 5.83082
+$EndPAD
+$PAD
+Sh "AU53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 5.83082
+$EndPAD
+$PAD
+Sh "AV2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 6.31673
+$EndPAD
+$PAD
+Sh "AV3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 6.31673
+$EndPAD
+$PAD
+Sh "AV4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1366 6.32612
+$EndPAD
+$PAD
+Sh "AV6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 6.32612
+$EndPAD
+$PAD
+Sh "AV7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 6.32612
+$EndPAD
+$PAD
+Sh "AV9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 6.32612
+$EndPAD
+$PAD
+Sh "AV10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 6.32612
+$EndPAD
+$PAD
+Sh "AV12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.61848 6.32612
+$EndPAD
+$PAD
+Sh "AV13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.90728 6.32612
+$EndPAD
+$PAD
+Sh "AV14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 6.44601
+$EndPAD
+$PAD
+Sh "AV16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 6.61848
+$EndPAD
+$PAD
+Sh "AV18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 6.61848
+$EndPAD
+$PAD
+Sh "AV19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 6.26288
+$EndPAD
+$PAD
+Sh "AV20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 6.61848
+$EndPAD
+$PAD
+Sh "AV22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 6.61848
+$EndPAD
+$PAD
+Sh "AV24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 6.61848
+$EndPAD
+$PAD
+Sh "AV26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 6.61848
+$EndPAD
+$PAD
+Sh "AV27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 6.26288
+$EndPAD
+$PAD
+Sh "AV28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 6.61848
+$EndPAD
+$PAD
+Sh "AV30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 6.61848
+$EndPAD
+$PAD
+Sh "AV32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 6.61848
+$EndPAD
+$PAD
+Sh "AV34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 6.61848
+$EndPAD
+$PAD
+Sh "AV35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 6.26288
+$EndPAD
+$PAD
+Sh "AV36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 6.61848
+$EndPAD
+$PAD
+Sh "AV38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 6.61848
+$EndPAD
+$PAD
+Sh "AV40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 6.44601
+$EndPAD
+$PAD
+Sh "AV41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.90728 6.32612
+$EndPAD
+$PAD
+Sh "AV42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.61848 6.32612
+$EndPAD
+$PAD
+Sh "AV44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 6.32612
+$EndPAD
+$PAD
+Sh "AV45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 6.32612
+$EndPAD
+$PAD
+Sh "AV47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 6.32612
+$EndPAD
+$PAD
+Sh "AV48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 6.32612
+$EndPAD
+$PAD
+Sh "AV50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1366 6.32612
+$EndPAD
+$PAD
+Sh "AV51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 6.31673
+$EndPAD
+$PAD
+Sh "AV52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 6.31673
+$EndPAD
+$PAD
+Sh "AW1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 6.80263
+$EndPAD
+$PAD
+Sh "AW3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 6.80263
+$EndPAD
+$PAD
+Sh "AW13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.75056 6.9149
+$EndPAD
+$PAD
+Sh "AW19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 6.97408
+$EndPAD
+$PAD
+Sh "AW27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 6.97408
+$EndPAD
+$PAD
+Sh "AW35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 6.97408
+$EndPAD
+$PAD
+Sh "AW41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.75056 6.9149
+$EndPAD
+$PAD
+Sh "AW51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 6.80263
+$EndPAD
+$PAD
+Sh "AW53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 6.80263
+$EndPAD
+$PAD
+Sh "AY2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.429 7.28853
+$EndPAD
+$PAD
+Sh "AY3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.73 7.28853
+$EndPAD
+$PAD
+Sh "AY4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1371 7.31672
+$EndPAD
+$PAD
+Sh "AY6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4633 7.31672
+$EndPAD
+$PAD
+Sh "AY7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.75208 7.31672
+$EndPAD
+$PAD
+Sh "AY9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.04088 7.31672
+$EndPAD
+$PAD
+Sh "AY10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.32968 7.31672
+$EndPAD
+$PAD
+Sh "AY12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 7.33958
+$EndPAD
+$PAD
+Sh "AY14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 7.32968
+$EndPAD
+$PAD
+Sh "AY16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 7.32968
+$EndPAD
+$PAD
+Sh "AY18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 7.32968
+$EndPAD
+$PAD
+Sh "AY20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 7.32968
+$EndPAD
+$PAD
+Sh "AY22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 7.32968
+$EndPAD
+$PAD
+Sh "AY24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 7.32968
+$EndPAD
+$PAD
+Sh "AY26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 7.32968
+$EndPAD
+$PAD
+Sh "AY28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 7.32968
+$EndPAD
+$PAD
+Sh "AY30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 7.32968
+$EndPAD
+$PAD
+Sh "AY32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 7.32968
+$EndPAD
+$PAD
+Sh "AY34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 7.32968
+$EndPAD
+$PAD
+Sh "AY36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 7.32968
+$EndPAD
+$PAD
+Sh "AY38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 7.32968
+$EndPAD
+$PAD
+Sh "AY40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 7.32968
+$EndPAD
+$PAD
+Sh "AY42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 7.33958
+$EndPAD
+$PAD
+Sh "AY44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.32968 7.31672
+$EndPAD
+$PAD
+Sh "AY45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.04088 7.31672
+$EndPAD
+$PAD
+Sh "AY47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.75208 7.31672
+$EndPAD
+$PAD
+Sh "AY48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4633 7.31672
+$EndPAD
+$PAD
+Sh "AY50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1371 7.31672
+$EndPAD
+$PAD
+Sh "AY51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.73 7.28853
+$EndPAD
+$PAD
+Sh "AY52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.429 7.28853
+$EndPAD
+$PAD
+Sh "BA1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 7.77443
+$EndPAD
+$PAD
+Sh "BA3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.0706 7.77443
+$EndPAD
+$PAD
+Sh "BA12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 8.04088
+$EndPAD
+$PAD
+Sh "BA14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 8.04088
+$EndPAD
+$PAD
+Sh "BA16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 8.04088
+$EndPAD
+$PAD
+Sh "BA18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 8.04088
+$EndPAD
+$PAD
+Sh "BA19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 7.68528
+$EndPAD
+$PAD
+Sh "BA20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 8.04088
+$EndPAD
+$PAD
+Sh "BA22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 8.04088
+$EndPAD
+$PAD
+Sh "BA24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 8.04088
+$EndPAD
+$PAD
+Sh "BA26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 8.04088
+$EndPAD
+$PAD
+Sh "BA27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 7.68528
+$EndPAD
+$PAD
+Sh "BA28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 8.04088
+$EndPAD
+$PAD
+Sh "BA30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 8.04088
+$EndPAD
+$PAD
+Sh "BA32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 8.04088
+$EndPAD
+$PAD
+Sh "BA34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 8.04088
+$EndPAD
+$PAD
+Sh "BA35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 7.68528
+$EndPAD
+$PAD
+Sh "BA36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 8.04088
+$EndPAD
+$PAD
+Sh "BA38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 8.04088
+$EndPAD
+$PAD
+Sh "BA40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 8.04088
+$EndPAD
+$PAD
+Sh "BA42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 8.04088
+$EndPAD
+$PAD
+Sh "BA51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.0706 7.77443
+$EndPAD
+$PAD
+Sh "BA53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 7.77443
+$EndPAD
+$PAD
+Sh "BB3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.9289 8.35076
+$EndPAD
+$PAD
+Sh "BB4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.2578 8.30732
+$EndPAD
+$PAD
+Sh "BB5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.5466 8.30732
+$EndPAD
+$PAD
+Sh "BB7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.83539 8.30732
+$EndPAD
+$PAD
+Sh "BB8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.12419 8.30732
+$EndPAD
+$PAD
+Sh "BB10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 8.17042
+$EndPAD
+$PAD
+Sh "BB19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 8.39648
+$EndPAD
+$PAD
+Sh "BB27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 8.39648
+$EndPAD
+$PAD
+Sh "BB35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 8.39648
+$EndPAD
+$PAD
+Sh "BB44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 8.17042
+$EndPAD
+$PAD
+Sh "BB46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.12419 8.30732
+$EndPAD
+$PAD
+Sh "BB47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.83539 8.30732
+$EndPAD
+$PAD
+Sh "BB49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.5466 8.30732
+$EndPAD
+$PAD
+Sh "BB50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.2578 8.30732
+$EndPAD
+$PAD
+Sh "BB51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.9289 8.35076
+$EndPAD
+$PAD
+Sh "BC1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 8.62051
+$EndPAD
+$PAD
+Sh "BC2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2464 8.85215
+$EndPAD
+$PAD
+Sh "BC10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 8.76376
+$EndPAD
+$PAD
+Sh "BC12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 8.75208
+$EndPAD
+$PAD
+Sh "BC14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 8.75208
+$EndPAD
+$PAD
+Sh "BC16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 8.75208
+$EndPAD
+$PAD
+Sh "BC18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 8.75208
+$EndPAD
+$PAD
+Sh "BC20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 8.75208
+$EndPAD
+$PAD
+Sh "BC22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 8.75208
+$EndPAD
+$PAD
+Sh "BC24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 8.75208
+$EndPAD
+$PAD
+Sh "BC26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.474981 8.75208
+$EndPAD
+$PAD
+Sh "BC28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.474981 8.75208
+$EndPAD
+$PAD
+Sh "BC30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 8.75208
+$EndPAD
+$PAD
+Sh "BC32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 8.75208
+$EndPAD
+$PAD
+Sh "BC34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 8.75208
+$EndPAD
+$PAD
+Sh "BC36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 8.75208
+$EndPAD
+$PAD
+Sh "BC38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 8.75208
+$EndPAD
+$PAD
+Sh "BC40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 8.75208
+$EndPAD
+$PAD
+Sh "BC42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 8.75208
+$EndPAD
+$PAD
+Sh "BC44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 8.76376
+$EndPAD
+$PAD
+Sh "BC52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2464 8.85215
+$EndPAD
+$PAD
+Sh "BC53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 8.62051
+$EndPAD
+$PAD
+Sh "BD1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 9.29361
+$EndPAD
+$PAD
+Sh "BD2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2207 9.44499
+$EndPAD
+$PAD
+Sh "BD5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.5651 9.30173
+$EndPAD
+$PAD
+Sh "BD7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.7122 9.30173
+$EndPAD
+$PAD
+Sh "BD10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 9.45718
+$EndPAD
+$PAD
+Sh "BD12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 9.46328
+$EndPAD
+$PAD
+Sh "BD14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 9.46328
+$EndPAD
+$PAD
+Sh "BD16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 9.46328
+$EndPAD
+$PAD
+Sh "BD18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.3622 9.46328
+$EndPAD
+$PAD
+Sh "BD19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 9.10768
+$EndPAD
+$PAD
+Sh "BD20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.41224 9.46328
+$EndPAD
+$PAD
+Sh "BD22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 9.46328
+$EndPAD
+$PAD
+Sh "BD24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 9.46328
+$EndPAD
+$PAD
+Sh "BD26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.525019 9.40435
+$EndPAD
+$PAD
+Sh "BD27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 9.10768
+$EndPAD
+$PAD
+Sh "BD28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.525019 9.40435
+$EndPAD
+$PAD
+Sh "BD30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 9.46328
+$EndPAD
+$PAD
+Sh "BD32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 9.46328
+$EndPAD
+$PAD
+Sh "BD34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.41224 9.46328
+$EndPAD
+$PAD
+Sh "BD35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 9.10768
+$EndPAD
+$PAD
+Sh "BD36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.3622 9.46328
+$EndPAD
+$PAD
+Sh "BD38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 9.46328
+$EndPAD
+$PAD
+Sh "BD40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 9.46328
+$EndPAD
+$PAD
+Sh "BD42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 9.46328
+$EndPAD
+$PAD
+Sh "BD44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 9.45718
+$EndPAD
+$PAD
+Sh "BD47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.7122 9.30173
+$EndPAD
+$PAD
+Sh "BD49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.5651 9.30173
+$EndPAD
+$PAD
+Sh "BD52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2207 9.44499
+$EndPAD
+$PAD
+Sh "BD53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 9.29361
+$EndPAD
+$PAD
+Sh "BE1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 9.99211
+$EndPAD
+$PAD
+Sh "BE2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2225 10.0383
+$EndPAD
+$PAD
+Sh "BE3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6428 9.57986
+$EndPAD
+$PAD
+Sh "BE8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.32002 9.747
+$EndPAD
+$PAD
+Sh "BE19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 9.81888
+$EndPAD
+$PAD
+Sh "BE35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 9.81888
+$EndPAD
+$PAD
+Sh "BE46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.32002 9.747
+$EndPAD
+$PAD
+Sh "BE51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6428 9.57986
+$EndPAD
+$PAD
+Sh "BE52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2225 10.0383
+$EndPAD
+$PAD
+Sh "BE53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 9.99211
+$EndPAD
+$PAD
+Sh "BF2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.2377 10.6317
+$EndPAD
+$PAD
+Sh "BF4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.1628 10.1628
+$EndPAD
+$PAD
+Sh "BF6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.1128 10.2385
+$EndPAD
+$PAD
+Sh "BF10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.30732 10.1684
+$EndPAD
+$PAD
+Sh "BF12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.31672 10.1371
+$EndPAD
+$PAD
+Sh "BF14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.32612 10.1366
+$EndPAD
+$PAD
+Sh "BF16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.33552 10.1366
+$EndPAD
+$PAD
+Sh "BF18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.38836 10.1366
+$EndPAD
+$PAD
+Sh "BF20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.38607 10.1366
+$EndPAD
+$PAD
+Sh "BF22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.43891 10.1366
+$EndPAD
+$PAD
+Sh "BF24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.44831 10.1366
+$EndPAD
+$PAD
+Sh "BF26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.462791 9.99465
+$EndPAD
+$PAD
+Sh "BF27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 10.366
+$EndPAD
+$PAD
+Sh "BF28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.462791 9.99465
+$EndPAD
+$PAD
+Sh "BF30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.44831 10.1366
+$EndPAD
+$PAD
+Sh "BF32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.43891 10.1366
+$EndPAD
+$PAD
+Sh "BF34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.38607 10.1366
+$EndPAD
+$PAD
+Sh "BF36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.38836 10.1366
+$EndPAD
+$PAD
+Sh "BF38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.33552 10.1366
+$EndPAD
+$PAD
+Sh "BF40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.32612 10.1366
+$EndPAD
+$PAD
+Sh "BF42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.31672 10.1371
+$EndPAD
+$PAD
+Sh "BF44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.30732 10.1684
+$EndPAD
+$PAD
+Sh "BF48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.1128 10.2385
+$EndPAD
+$PAD
+Sh "BF50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.1628 10.1628
+$EndPAD
+$PAD
+Sh "BF52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.2377 10.6317
+$EndPAD
+$PAD
+Sh "BG1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 10.7732
+$EndPAD
+$PAD
+Sh "BG3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6444 10.6444
+$EndPAD
+$PAD
+Sh "BG5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.5799 10.6428
+$EndPAD
+$PAD
+Sh "BG7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.55319 10.7091
+$EndPAD
+$PAD
+Sh "BG9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.69798 11.0282
+$EndPAD
+$PAD
+Sh "BG11" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.77443 11.0706
+$EndPAD
+$PAD
+Sh "BG12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.28853 10.73
+$EndPAD
+$PAD
+Sh "BG13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.80263 11.0706
+$EndPAD
+$PAD
+Sh "BG14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.31673 10.73
+$EndPAD
+$PAD
+Sh "BG15" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.83082 11.0706
+$EndPAD
+$PAD
+Sh "BG16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.34492 10.73
+$EndPAD
+$PAD
+Sh "BG17" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.85902 11.0706
+$EndPAD
+$PAD
+Sh "BG18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.37312 10.73
+$EndPAD
+$PAD
+Sh "BG19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 11.0706
+$EndPAD
+$PAD
+Sh "BG20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.40131 10.73
+$EndPAD
+$PAD
+Sh "BG21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.91541 11.0706
+$EndPAD
+$PAD
+Sh "BG22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.42951 10.73
+$EndPAD
+$PAD
+Sh "BG23" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.94361 11.0706
+$EndPAD
+$PAD
+Sh "BG24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.45771 10.73
+$EndPAD
+$PAD
+Sh "BG25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.9718 11.0706
+$EndPAD
+$PAD
+Sh "BG26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.479809 10.7152
+$EndPAD
+$PAD
+Sh "BG27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 11.0706
+$EndPAD
+$PAD
+Sh "BG28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.479809 10.7152
+$EndPAD
+$PAD
+Sh "BG29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.9718 11.0706
+$EndPAD
+$PAD
+Sh "BG30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.45771 10.73
+$EndPAD
+$PAD
+Sh "BG31" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.94361 11.0706
+$EndPAD
+$PAD
+Sh "BG32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.42951 10.73
+$EndPAD
+$PAD
+Sh "BG33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.91541 11.0706
+$EndPAD
+$PAD
+Sh "BG34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.40131 10.73
+$EndPAD
+$PAD
+Sh "BG35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 11.0706
+$EndPAD
+$PAD
+Sh "BG36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.37312 10.73
+$EndPAD
+$PAD
+Sh "BG37" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.85902 11.0706
+$EndPAD
+$PAD
+Sh "BG38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.34492 10.73
+$EndPAD
+$PAD
+Sh "BG39" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.83082 11.0706
+$EndPAD
+$PAD
+Sh "BG40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.31673 10.73
+$EndPAD
+$PAD
+Sh "BG41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.80263 11.0706
+$EndPAD
+$PAD
+Sh "BG42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.28853 10.73
+$EndPAD
+$PAD
+Sh "BG43" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.77443 11.0706
+$EndPAD
+$PAD
+Sh "BG45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.69798 11.0282
+$EndPAD
+$PAD
+Sh "BG47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.55319 10.7091
+$EndPAD
+$PAD
+Sh "BG49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.5799 10.6428
+$EndPAD
+$PAD
+Sh "BG51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6444 10.6444
+$EndPAD
+$PAD
+Sh "BG53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 10.7732
+$EndPAD
+$PAD
+Sh "BH1" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.814 11.3828
+$EndPAD
+$PAD
+Sh "BH2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.225 11.225
+$EndPAD
+$PAD
+Sh "BH4" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6317 11.2377
+$EndPAD
+$PAD
+Sh "BH5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.0383 11.2225
+$EndPAD
+$PAD
+Sh "BH6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.445 11.2207
+$EndPAD
+$PAD
+Sh "BH7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.85164 11.2296
+$EndPAD
+$PAD
+Sh "BH8" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.2583 11.2243
+$EndPAD
+$PAD
+Sh "BH10" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.26033 11.429
+$EndPAD
+$PAD
+Sh "BH12" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.28853 11.429
+$EndPAD
+$PAD
+Sh "BH14" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.31673 11.429
+$EndPAD
+$PAD
+Sh "BH16" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.34492 11.429
+$EndPAD
+$PAD
+Sh "BH18" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.37312 11.429
+$EndPAD
+$PAD
+Sh "BH20" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.40131 11.429
+$EndPAD
+$PAD
+Sh "BH22" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.42951 11.429
+$EndPAD
+$PAD
+Sh "BH24" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.45771 11.429
+$EndPAD
+$PAD
+Sh "BH26" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.4859 11.429
+$EndPAD
+$PAD
+Sh "BH28" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.4859 11.429
+$EndPAD
+$PAD
+Sh "BH30" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.45771 11.429
+$EndPAD
+$PAD
+Sh "BH32" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.42951 11.429
+$EndPAD
+$PAD
+Sh "BH34" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.40131 11.429
+$EndPAD
+$PAD
+Sh "BH36" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.37312 11.429
+$EndPAD
+$PAD
+Sh "BH38" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.34492 11.429
+$EndPAD
+$PAD
+Sh "BH40" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.31673 11.429
+$EndPAD
+$PAD
+Sh "BH42" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.28853 11.429
+$EndPAD
+$PAD
+Sh "BH44" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.26033 11.429
+$EndPAD
+$PAD
+Sh "BH46" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.2583 11.2243
+$EndPAD
+$PAD
+Sh "BH47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.85164 11.2296
+$EndPAD
+$PAD
+Sh "BH48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.445 11.2207
+$EndPAD
+$PAD
+Sh "BH49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.0383 11.2225
+$EndPAD
+$PAD
+Sh "BH50" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6317 11.2377
+$EndPAD
+$PAD
+Sh "BH52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.225 11.225
+$EndPAD
+$PAD
+Sh "BH53" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.814 11.3828
+$EndPAD
+$PAD
+Sh "BJ2" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.3827 11.814
+$EndPAD
+$PAD
+Sh "BJ3" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.7731 11.814
+$EndPAD
+$PAD
+Sh "BJ5" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.9921 11.814
+$EndPAD
+$PAD
+Sh "BJ6" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.2936 11.814
+$EndPAD
+$PAD
+Sh "BJ7" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.6205 11.814
+$EndPAD
+$PAD
+Sh "BJ9" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.74624 11.814
+$EndPAD
+$PAD
+Sh "BJ11" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.77443 11.814
+$EndPAD
+$PAD
+Sh "BJ13" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.80263 11.814
+$EndPAD
+$PAD
+Sh "BJ15" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.83082 11.814
+$EndPAD
+$PAD
+Sh "BJ17" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.85902 11.814
+$EndPAD
+$PAD
+Sh "BJ19" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.88722 11.814
+$EndPAD
+$PAD
+Sh "BJ21" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.91541 11.814
+$EndPAD
+$PAD
+Sh "BJ23" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.94361 11.814
+$EndPAD
+$PAD
+Sh "BJ25" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.9718 11.814
+$EndPAD
+$PAD
+Sh "BJ27" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 11.814
+$EndPAD
+$PAD
+Sh "BJ29" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.9718 11.814
+$EndPAD
+$PAD
+Sh "BJ31" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.94361 11.814
+$EndPAD
+$PAD
+Sh "BJ33" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.91541 11.814
+$EndPAD
+$PAD
+Sh "BJ35" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.88722 11.814
+$EndPAD
+$PAD
+Sh "BJ37" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.85902 11.814
+$EndPAD
+$PAD
+Sh "BJ39" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.83082 11.814
+$EndPAD
+$PAD
+Sh "BJ41" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.80263 11.814
+$EndPAD
+$PAD
+Sh "BJ43" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.77443 11.814
+$EndPAD
+$PAD
+Sh "BJ45" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.74624 11.814
+$EndPAD
+$PAD
+Sh "BJ47" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.6205 11.814
+$EndPAD
+$PAD
+Sh "BJ48" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.2936 11.814
+$EndPAD
+$PAD
+Sh "BJ49" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.9921 11.814
+$EndPAD
+$PAD
+Sh "BJ51" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.7731 11.814
+$EndPAD
+$PAD
+Sh "BJ52" C 0.335 0.335 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.3827 11.814
+$EndPAD
+$EndMODULE FCBGA1170
