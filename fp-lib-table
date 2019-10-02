@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Atom)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/FCBGA1170.pretty)(options "")(descr ""))
+  (lib (name CS4207-CNZ)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/CS4207-CNZ.pretty)(options "")(descr ""))
 )

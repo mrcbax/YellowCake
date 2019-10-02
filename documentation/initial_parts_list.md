@@ -6,6 +6,7 @@
 - [x8] SODIMM slots: [https://www.mouser.com/ProductDetail/TE-Connectivity-AMP/2-2013022-1?qs=sGAEpiMZZMu51HMau1GEUHbEC%252BYTpMZcF5Ep2lLQu70%3D](https://www.mouser.com/ProductDetail/TE-Connectivity-AMP/2-2013022-1?qs=sGAEpiMZZMu51HMau1GEUHbEC%252BYTpMZcF5Ep2lLQu70%3D)
 - [x4] Micro-SD slots: [https://www.mouser.com/ProductDetail/Molex/104031-0811?qs=sGAEpiMZZMvlX3nhDDO4APpvzJC5rjSIQk8rK5oWGmY%3D](https://www.mouser.com/ProductDetail/Molex/104031-0811?qs=sGAEpiMZZMvlX3nhDDO4APpvzJC5rjSIQk8rK5oWGmY%3D)
 - [x4] PCI/104 Express headers: [https://www.mouser.com/ProductDetail/Samtec/ASP-129637-03?qs=sGAEpiMZZMsG1k5vdNM%2Fc00%2F%2Fsop45njnOCjMmM1y5s%3D](https://www.mouser.com/ProductDetail/Samtec/ASP-129637-03?qs=sGAEpiMZZMsG1k5vdNM%2Fc00%2F%2Fsop45njnOCjMmM1y5s%3D)
+- [x2] intel hdaudio codec [https://www.mouser.com/ProductDetail/Cirrus-Logic/CS4207-CNZ?qs=sGAEpiMZZMtq3QB8qGen7SBsPebhPp2DIspEOUgddMo%3D](https://www.mouser.com/ProductDetail/Cirrus-Logic/CS4207-CNZ?qs=sGAEpiMZZMtq3QB8qGen7SBsPebhPp2DIspEOUgddMo%3D)
 
 
 ## I/O Components
