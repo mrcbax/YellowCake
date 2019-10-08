@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name atom)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/atom.lib)(options "")(descr ""))
   (lib (name CS4207-CNZ)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/CS4207-CNZ.lib)(options "")(descr ""))
+  (lib (name TPS59640)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TPS59604.lib)(options "")(descr ""))
+  (lib (name ISL95837)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/ISL95837.lib)(options "")(descr ""))
 )
