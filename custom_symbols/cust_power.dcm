@@ -223,6 +223,16 @@ D Power symbol creates a global label with name "+BATT"
 K power-flag battery
 $ENDCMP
 #
+$CMP +HDMI_CRT_VCC
+D Power symbol creates a global label with name "+VCORE"
+K power-flag
+$ENDCMP
+#
+$CMP +V1P8S
+D Power symbol creates a global label with name "+VCORE"
+K power-flag
+$ENDCMP
+#
 $CMP +VCORE
 D Power symbol creates a global label with name "+VCORE"
 K power-flag

@@ -4,4 +4,5 @@
   (lib (name TPS59640)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TPS59604.lib)(options "")(descr ""))
   (lib (name ISL95837)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/ISL95837.lib)(options "")(descr ""))
   (lib (name POWER)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/cust_power.lib)(options "")(descr ""))
+  (lib (name TPD12S016PW)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TPD12S016PW.lib)(options "")(descr ""))
 )

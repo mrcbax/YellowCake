@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
+Sheet 1 5
 Title ""
 Date ""
 Rev ""
@@ -25,5 +25,17 @@ S 9150 1150 500  300
 U 5D93F670
 F0 "Sheet5D93F66F" 50
 F1 "PD.sch" 50
+$EndSheet
+$Sheet
+S 7100 1150 500  300 
+U 5DA75813
+F0 "Sheet5DA75812" 50
+F1 "HDMI.sch" 50
+$EndSheet
+$Sheet
+S 6100 1150 500  300 
+U 5DAC0636
+F0 "Sheet5DAC0635" 50
+F1 "USB.sch" 50
 $EndSheet
 $EndSCHEMATC
