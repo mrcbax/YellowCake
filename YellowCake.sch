@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -37,5 +37,17 @@ S 6100 1150 500  300
 U 5DAC0636
 F0 "Sheet5DAC0635" 50
 F1 "USB.sch" 50
+$EndSheet
+$Sheet
+S 5100 1150 500  300 
+U 5DAFBD2D
+F0 "Sheet5DAFBD2C" 50
+F1 "MEM.sch" 50
+$EndSheet
+$Sheet
+S 4100 1150 500  300 
+U 5DAFBD8E
+F0 "Sheet5DAFBD8D" 50
+F1 "SDCARD.sch" 50
 $EndSheet
 $EndSCHEMATC
