@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 20
 Title ""
 Date ""
 Rev ""
@@ -49,5 +49,83 @@ S 4100 1150 500  300
 U 5DAFBD8E
 F0 "Sheet5DAFBD8D" 50
 F1 "SDCARD.sch" 50
+$EndSheet
+$Sheet
+S 1000 2000 500  500 
+U 5DB66240
+F0 "MISC" 50
+F1 "CPU_A.sch" 50
+$EndSheet
+$Sheet
+S 1500 2000 500  500 
+U 5DB662A3
+F0 "GND" 50
+F1 "CPU_B.sch" 50
+$EndSheet
+$Sheet
+S 2000 2000 500  500 
+U 5DB662F8
+F0 "GND2" 50
+F1 "CPU_C.sch" 50
+$EndSheet
+$Sheet
+S 2500 2000 500  500 
+U 5DB66819
+F0 "VCC" 50
+F1 "CPU_D.sch" 50
+$EndSheet
+$Sheet
+S 3000 2000 500  500 
+U 5DB6687B
+F0 "USB" 50
+F1 "CPU_E.sch" 50
+$EndSheet
+$Sheet
+S 3500 2000 500  500 
+U 5DB668C9
+F0 "MEM" 50
+F1 "CPU_F.sch" 50
+$EndSheet
+$Sheet
+S 4000 2000 500  500 
+U 5DB66909
+F0 "PCIE" 50
+F1 "CPU_G.sch" 50
+$EndSheet
+$Sheet
+S 4500 2000 500  500 
+U 5DB6696E
+F0 "GPIO" 50
+F1 "CPU_H.sch" 50
+$EndSheet
+$Sheet
+S 5000 2000 500  500 
+U 5DB669E8
+F0 "RESVD" 50
+F1 "CPU_I.sch" 50
+$EndSheet
+$Sheet
+S 5500 2000 500  500 
+U 5DB66A3D
+F0 "DDI" 50
+F1 "CPU_J.sch" 50
+$EndSheet
+$Sheet
+S 6000 2000 500  500 
+U 5DB66A8F
+F0 "SIO" 50
+F1 "CPU_K.sch" 50
+$EndSheet
+$Sheet
+S 6500 2000 500  500 
+U 5DB66ADB
+F0 "MCSI" 50
+F1 "CPU_L.sch" 50
+$EndSheet
+$Sheet
+S 9150 1750 500  300 
+U 5DB78800
+F0 "Sheet5DB787FF" 50
+F1 "PD2.sch" 50
 $EndSheet
 $EndSCHEMATC

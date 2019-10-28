@@ -228,6 +228,16 @@ D Power symbol creates a global label with name "+VCORE"
 K power-flag
 $ENDCMP
 #
+$CMP +PS_3VSB
+D Power symbol creates a global label with name "+VCORE"
+K power-flag
+$ENDCMP
+#
+$CMP +PS_5VSB
+D Power symbol creates a global label with name "+VCORE"
+K power-flag
+$ENDCMP
+#
 $CMP +V1P8S
 D Power symbol creates a global label with name "+VCORE"
 K power-flag

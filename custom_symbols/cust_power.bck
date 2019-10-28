@@ -228,7 +228,7 @@ D Power symbol creates a global label with name "+VCORE"
 K power-flag
 $ENDCMP
 #
-$CMP +HDMI_CRT_VCC_copy
+$CMP +PS_5VSB
 D Power symbol creates a global label with name "+VCORE"
 K power-flag
 $ENDCMP

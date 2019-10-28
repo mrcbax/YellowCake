@@ -6,4 +6,6 @@
   (lib (name POWER)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/cust_power.lib)(options "")(descr ""))
   (lib (name TPD12S016PW)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TPD12S016PW.lib)(options "")(descr ""))
   (lib (name TPD6E001RSER)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TPD6E001RSER.lib)(options "")(descr ""))
+  (lib (name IRF9321)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/irf9321.lib)(options "")(descr ""))
+  (lib (name NB670)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/NB670.lib)(options "")(descr ""))
 )
