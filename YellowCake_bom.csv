@@ -1,0 +1,91 @@
+Reference,Quantity,Value,Footprint,Datasheet,Type,Rating,Price Per Unit,Net,Notes
+C1 C14 C11 C12 C9 C18 C30 C21 C34 C55 C58 C73 C75 C60 C67 C69 C74 C68 C72 C71 C70 C83,22,0.1uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.22,
+C22 C19,2,330pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.02,
+C23 C20,2,0.01uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.02,
+C25,1,470pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.01,
+C26,1,68pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.01,
+C27,1,220pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.01,
+C28 C24,2,560pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.02,
+C29,1,33pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.01,
+C32 C35 C37 C61 C66,5,1.0uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.05,
+C33 C17 C31 C16,4,1000pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.04,
+C39 C38 C36 C64,4,0.22uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.04,
+C4 C5,2,2.2uF,Capacitor_SMD:C_0603_1608Metric,~,CERM_LESR,,$0.05,$0.10,
+C41 C40,2,2200pF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.02,
+C43 C42,2,0.047uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.02,
+C47 C45 C46 C44 C49 C48,6,0.033uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.06,
+C50,1,0.1uF,,~,,,$0.01,$0.01,
+C51,1,4.7uF,,~,,,$0.01,$0.01,
+C52 C53,2,10uF,,~,,,$0.01,$0.02,
+C54,1,8200pF,Resistor_SMD:R_0603_1608Metric,~,,1000v,$0.01,$0.01,
+C56 C57 C59 C62 C63 C76 C77 C79 C81 C82,10,22uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.10,
+C6 C2 C3,3,1uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.03,
+C7 C10,2,10uF,Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P,~,TANT,,$0.05,$0.10,
+C8 C13 C15 C78 C80 C65,6,10uF,Capacitor_SMD:C_0603_1608Metric,~,,,$0.01,$0.06,
+D1,1,BAT54A,Package_TO_SOT_SMD:SOT-23,http://www.diodes.com/_files/datasheets/ds11005.pdf,,,$0.10,$0.10,
+D2 D3,2,BAV99S,Package_TO_SOT_SMD:SOT-363_SC-70-6,https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf,,,$0.40,$0.80,
+J1,1,HDMI_A,,https://en.wikipedia.org/wiki/HDMI,,,$0.00,$0.00,Purchased
+J2,1,SODIMM-200,,,,,$0.00,$0.00,Purchased
+J3,1,Micro_SD_Card,,http://katalog.we-online.de/em/datasheet/693072010801.pdf,,,$0.00,$0.00,Purchased
+J4,1,Conn_Coaxial_Power,,~,,,$0.00,$0.00,Purchased
+L1,1,220Ohm,Inductor_SMD:L_0603_1608Metric,~,,,$0.05,$0.05,
+L2,1,FB_220R_2.2A,Inductor_SMD:L_0603_1608Metric,~,,,$0.05,$0.05,
+L5 L6 L3 L4,4,FB_120R_3A,Inductor_SMD:L_0603_1608Metric,~,,,$0.05,$0.20,
+L7,1,PIND-2.2U-8A,Inductor_SMD:L_0603_1608Metric,~,,,$0.05,$0.05,
+R1 R2,2,2.2kOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R13,1,2.7KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R14 R15 R11 R12,4,10Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.04,
+R16,1,2.32KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R18,1,2.43KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R19 R17,2,200Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R21,1,2.21KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R23 R20 R27,3,80.6KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.03,
+R25 R24 R22,3,69.8Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.03,
+R26,1,169KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R30 R28,2,1.91KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R31 R29,2,6.98KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R33,1,16.9Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R34 R32 R36 R9 R10 R7 R8 R43 R42 R38 R39,11,0Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.11,
+R35,1,20Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R37,1,1KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R4 R3 R75 R74 R73 R72 R71 R70,8,33Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.08,
+R40,1,1Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R41 R48,2,18.7KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R44 R47,2,3.83KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R45 R46,2,NTC-470KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R5,1,37.4KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R50 R49,2,649Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R51,1,2.67KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R54 R53,2,11KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R56,1,2.55KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R57 R52,2,2.61KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R58 R55,2,NTC-10KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R59 R60 R67,3,0Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.03,
+R6,1,12.1KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R61,1,2.2KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R62,1,2.2KOkm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R63 R64 R65 R66 R68,5,10KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.05,
+R69,1,100KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R76 R77 R78 R79 R80 R81 R87 R85,8,100KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.08,
+R83,1,2.2Ohms,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+R84 R82,2,499KOhm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.02,
+R86,1,4.7Ohm,Resistor_SMD:R_0603_1608Metric,~,,,$0.01,$0.01,
+U1,1,CS4207-CNZ,CIR-QFN-48_6X6,,,,$10.00,$10.00,
+U10,1,atom_F,,,,,$0.00,$0.00,Purchased
+U11,1,atom_G,,,,,$0.00,$0.00,Purchased
+U12,1,atom_H,,,,,$0.00,$0.00,Purchased
+U13,1,atom_I,,,,,$0.00,$0.00,Purchased
+U14,1,atom_J,,,,,$0.00,$0.00,Purchased
+U15,1,atom_K,,,,,$0.00,$0.00,Purchased
+U16,1,atom_L,,,,,$0.00,$0.00,Purchased
+U17,1,NB670,,,,,$3.00,$3.00,
+U18,1,IRF9321,,,,,$4.00,$4.00,
+U2,1,ISL95837HRZ-T,Package_DFN_QFN:QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm,,,,$4.00,$4.00,
+U3,1,TPD12S016PWR,PW24,,,,$2.00,$2.00,
+U4,1,TPD6E001RSER,TPD6E001RSER:TPD6E001RSER,,,,$0.60,$0.60,
+U5,1,atom_A,,,,,$0.00,$0.00,Purchased
+U6,1,atom_B,,,,,$0.00,$0.00,Purchased
+U7,1,atom_C,,,,,$0.00,$0.00,Purchased
+U8,1,atom_D,,,,,$0.00,$0.00,Purchased
+U9,1,atom_E,,,,,$0.00,$0.00,Purchased
+_,_,_,_,_,Overrun Buffer,$20.00,Total,$46.71,
