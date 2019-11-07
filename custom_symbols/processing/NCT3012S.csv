@@ -1,0 +1,10 @@
+NCT3012S
+Pin,Name,Side
+1,DeepS5_Sel,left
+2,VSB,left
+3,PS_IN#,left
+4,SLP_S5#,left
+5,SDA,right
+6,SCLK,right
+7,PS_OUT#,right
+8,SYS5VSB_OFF,right
