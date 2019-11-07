@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 18 20
+Sheet 18 21
 Title ""
 Date ""
 Rev ""
@@ -15,10 +15,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L atom:atom_K U?
+L atom:atom_K U19
 U 1 1 5DB91C36
 P 4650 2700
-F 0 "U?" H 5650 2990 60  0000 C CNN
+F 0 "U19" H 5650 2990 60  0000 C CNN
 F 1 "atom_K" H 5650 2884 60  0000 C CNN
 F 2 "" H 4850 2750 60  0001 L CNN
 F 3 "" H 4850 2550 60  0001 L CNN

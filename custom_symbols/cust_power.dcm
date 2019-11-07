@@ -135,6 +135,11 @@ D Power symbol creates a global label with name "+3V8"
 K power-flag
 $ENDCMP
 #
+$CMP +3VSB
+D Power symbol creates a global label with name "+VCORE"
+K power-flag
+$ENDCMP
+#
 $CMP +48V
 D Power symbol creates a global label with name "+48V"
 K power-flag
@@ -234,6 +239,15 @@ K power-flag
 $ENDCMP
 #
 $CMP +PS_5VSB
+D Power symbol creates a global label with name "+VCORE"
+K power-flag
+$ENDCMP
+#
+$CMP +USBVCC
+K power-flag
+$ENDCMP
+#
+$CMP +V1P8A
 D Power symbol creates a global label with name "+VCORE"
 K power-flag
 $ENDCMP
@@ -457,7 +471,22 @@ D Power symbol creates a global label with name "VBUS"
 K power-flag
 $ENDCMP
 #
+$CMP VBUS1
+D Power symbol creates a global label with name "VBUS"
+K power-flag
+$ENDCMP
+#
+$CMP VBUS2
+D Power symbol creates a global label with name "VBUS"
+K power-flag
+$ENDCMP
+#
 $CMP VCC
+D Power symbol creates a global label with name "VCC"
+K power-flag
+$ENDCMP
+#
+$CMP VCC3
 D Power symbol creates a global label with name "VCC"
 K power-flag
 $ENDCMP

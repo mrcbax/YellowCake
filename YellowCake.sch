@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 20
+Sheet 1 21
 Title ""
 Date ""
 Rev ""
@@ -127,5 +127,11 @@ S 9150 1750 500  300
 U 5DB78800
 F0 "Sheet5DB787FF" 50
 F1 "PD2.sch" 50
+$EndSheet
+$Sheet
+S 9150 2400 500  300 
+U 5DD54244
+F0 "PD3" 50
+F1 "PD3.sch" 50
 $EndSheet
 $EndSCHEMATC
