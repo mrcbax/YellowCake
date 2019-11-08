@@ -9,4 +9,7 @@
   (lib (name TPS2066DR)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TPS2066DR.pretty)(options "")(descr ""))
   (lib (name RQ3E180GNTB)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/RQ3E180GNTB.pretty)(options "")(descr ""))
   (lib (name RQ5E035ATTCL)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/RQ5E035ATTCL.pretty)(options "")(descr ""))
+  (lib (name TXS0104EYZTR)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TXS0104EYZTR.pretty)(options "")(descr ""))
+  (lib (name ACM2012-900-2P-T)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/ACM2012-900-2P-T.pretty)(options "")(descr ""))
+  (lib (name FDMS7602S)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/FDMS7602S.pretty)(options "")(descr ""))
 )
