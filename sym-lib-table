@@ -17,4 +17,7 @@
   (lib (name TXS0104EYZTR)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TXS0104EYZTR.lib)(options "")(descr ""))
   (lib (name ACM2012-900-2P-T)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/ACM2012-900-2P-T.lib)(options "")(descr ""))
   (lib (name FDMS7602S)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/FDMS7602S.lib)(options "")(descr ""))
+  (lib (name APL5912KAC)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/APL5912KAC.lib)(options "")(descr ""))
+  (lib (name APL5933)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/APL5933.lib)(options "")(descr ""))
+  (lib (name NCP606MN18T2G)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/NCP606MN18T2G.lib)(options "")(descr ""))
 )

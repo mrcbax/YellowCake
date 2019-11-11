@@ -1,0 +1,11 @@
+APL5933
+Pin,Name,Side
+8,GND,bottom
+7,FB,left
+6,VOUT,left
+5,NC,left
+3,VIN,top
+4,VCNTL,right
+1,POK,right
+2,EN,right
+9,GND,bottom

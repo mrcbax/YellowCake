@@ -247,6 +247,11 @@ $CMP +USBVCC
 K power-flag
 $ENDCMP
 #
+$CMP +V1P0A
+D Power symbol creates a global label with name "+VCORE"
+K power-flag
+$ENDCMP
+#
 $CMP +V1P8A
 D Power symbol creates a global label with name "+VCORE"
 K power-flag
@@ -264,6 +269,11 @@ $ENDCMP
 #
 $CMP +VDC
 D Power symbol creates a global label with name "+VDC"
+K power-flag
+$ENDCMP
+#
+$CMP +VDIMM
+D Power symbol creates a global label with name "+VCORE"
 K power-flag
 $ENDCMP
 #
@@ -456,6 +466,19 @@ K power-flag
 F ~
 $ENDCMP
 #
+$CMP V1P05S
+K power-flag
+$ENDCMP
+#
+$CMP V1P0S
+D Power symbol creates a global label with name "VCC"
+K power-flag
+$ENDCMP
+#
+$CMP V1P35S
+K power-flag
+$ENDCMP
+#
 $CMP VAA
 D Power symbol creates a global label with name "VAA"
 K power-flag
@@ -487,6 +510,11 @@ K power-flag
 $ENDCMP
 #
 $CMP VCC3
+D Power symbol creates a global label with name "VCC"
+K power-flag
+$ENDCMP
+#
+$CMP VCC3S
 D Power symbol creates a global label with name "VCC"
 K power-flag
 $ENDCMP

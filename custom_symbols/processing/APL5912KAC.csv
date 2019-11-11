@@ -1,0 +1,11 @@
+APL5912KAC
+Pin,Name,Side
+1,GND,bottom
+2,FB,left
+3,VOUT,left
+4,VOUT,left
+5,VIN,top
+6,VCNTL,right
+7,POK,right
+8,EN,right
+9,VIN,top
