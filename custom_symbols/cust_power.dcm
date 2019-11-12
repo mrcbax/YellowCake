@@ -382,6 +382,10 @@ D Power symbol creates a global label with name "AC"
 K power-flag
 $ENDCMP
 #
+$CMP DDP_1V8
+K power-flag
+$ENDCMP
+#
 $CMP Earth
 D Power symbol creates a global label with name "Earth"
 K power-flag ground gnd
