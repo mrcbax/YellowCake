@@ -22,4 +22,5 @@
   (lib (name NCP606MN18T2G)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/NCP606MN18T2G.lib)(options "")(descr ""))
   (lib (name 2013289-1)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/2013289-1.lib)(options "")(descr ""))
   (lib (name TS3A27518ERTWR)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TS3A27518ERTWR.lib)(options "")(descr ""))
+  (lib (name SN74LVC1G14DBVR)(type Legacy)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/SN74LVC1G14DBVR.lib)(options "")(descr ""))
 )

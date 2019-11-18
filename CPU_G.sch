@@ -15,14 +15,14 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L atom:atom_G U15
-U 1 1 5DB8B498
+L atom:atom_A_copy U15
+U 7 1 5DB8B498
 P 4600 3150
 F 0 "U15" H 6000 1467 60  0000 C CNN
-F 1 "atom_G" H 6000 1361 60  0000 C CNN
-F 2 "" H 4750 3200 60  0001 R CNN
+F 1 "atom_A_copy" H 6000 1361 60  0000 C CNN
+F 2 "Atom:FCBGA11702" H 4750 3200 60  0001 R CNN
 F 3 "" H 4750 3000 60  0001 R CNN
-	1    4600 3150
+	7    4600 3150
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

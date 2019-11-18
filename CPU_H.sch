@@ -15,14 +15,20 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L atom:atom_H U16
-U 1 1 5DB8CDAC
-P 4750 2700
-F 0 "U16" H 5950 3903 60  0000 C CNN
-F 1 "atom_H" H 5950 3797 60  0000 C CNN
-F 2 "" H 4900 2750 60  0001 R CNN
-F 3 "" H 4900 2550 60  0001 R CNN
-	1    4750 2700
+L atom:atom_A_copy U16
+U 8 1 5DB8CDAC
+P 4750 2000
+F 0 "U16" H 5950 3203 60  0000 C CNN
+F 1 "atom_A_copy" H 5950 3097 60  0000 C CNN
+F 2 "Atom:FCBGA11702" H 4900 2050 60  0001 R CNN
+F 3 "" H 4900 1850 60  0001 R CNN
+	8    4750 2000
 	1    0    0    -1  
 $EndComp
+Text GLabel 4750 3100 0    50   BiDi ~ 0
+SOC_GPIO_S5_0
+Text GLabel 4750 3000 0    50   BiDi ~ 0
+SOC_GPIO_S5_1
+Text GLabel 4750 3600 0    50   BiDi ~ 0
+SOC_GPIO_S5_2
 $EndSCHEMATC

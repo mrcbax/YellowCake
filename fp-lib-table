@@ -16,4 +16,5 @@
   (lib (name 2013289-1)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/2013289-1.pretty)(options "")(descr ""))
   (lib (name 10029449-111RLF)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/10029449-111RLF.pretty)(options "")(descr ""))
   (lib (name TS3A27518ERTWR)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/TS3A27518ERTWR.pretty)(options "")(descr ""))
+  (lib (name SN74LVC1G14DBVR)(type KiCad)(uri /home/cbax/Projects/School/YellowCake/custom_symbols/SN74LVC1G14DBVR.pretty)(options "")(descr ""))
 )
